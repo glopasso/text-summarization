@@ -48,5 +48,5 @@ The response is a JSON in the following format:
 {"prediction" : "The generated summary"}
 
 #### Web interface
-Access the app on Heroku using the [link](https://summarizer-lopasso.herokuapp.com/)
-The app has a self explanatory page, where one input the text to be summarized and the algorithm parameters. The generate summary appears in the field on the bottom of the page, when the button "Submit" is pressed.
+Access the app on Heroku using the [link](https://summarizer-lopasso.herokuapp.com/).
+The app has a self explanatory page, where one input the text to be summarized and the algorithm parameters. The generated summary appears in the field on the bottom of the page, when the button "Submit" is pressed.
