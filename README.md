@@ -41,7 +41,7 @@ The sentence scoring algorithm was mostly based on Alfrick Opidi's article on Fl
 ## 5. Flask API on a web server
 
 #### HTTP POST calls to the API
-Format: curl --data-binary @ -d 'tokenizer=<stem | lemma>&n_gram=<1-gram |2-gram | 3-gram>&threshold_factor=<float>' https://summarizer-lopasso.herokuapp.com/predict
+Format: curl --data-binary @ -d 'tokenizer=<stem | lemma>&n_gram=<1-gram |2-gram | 3-gram>&threshold_factor=\<float\>' https://summarizer-lopasso.herokuapp.com/predict
 
 The response is a JSON in the following format:
 
