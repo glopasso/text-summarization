@@ -1,0 +1,3 @@
+Spam e-mails promoting a rally against President-elect Putin contain spyware.
+E-mails began circulating around March 5, Symantec says.
+Virus overwrites many of the user's files then deletes them thoroughly.

@@ -1,0 +1,4 @@
+An FAA review could lead to increased use of consumer electronics in aircraft cabins.
+The study will not consider use of cell phones for voice communications in flight.
+Cell phones are banned by the Federal Communications Commission, not by the FAA.
+The FCC ban is because of potential interference to wireless networks on the ground.

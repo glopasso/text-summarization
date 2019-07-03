@@ -1,0 +1,3 @@
+Facebook allows users to download their profiles through account setttings.
+In WordPress, go to Tools, Export and choose the posts you want to export.
+Adobe Air app Flump lets you backup Flickr photos.

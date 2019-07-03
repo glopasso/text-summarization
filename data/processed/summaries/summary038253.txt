@@ -1,0 +1,4 @@
+Digital 'monkeys' with typewriters complete Shakespeare's "A Lover's Complaint".
+Project is the brainchild of a Nevada developer and aims to test the classic "Infinite Monkey Theorem".
+It began last month and will continue until The Bard's entire catalogue is reproduced.
+The program types random bursts of code, crossing words off when they match Shakespeare's.

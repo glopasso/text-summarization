@@ -1,0 +1,4 @@
+Providers will need to supply connection speeds of at least 1 megabit per second.
+But Finland is aiming for speeds that are 100 times faster.
+95 percent of Finnish population have some sort of Internet access.
+The law is designed to bring the Web to rural areas.

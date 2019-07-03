@@ -1,0 +1,4 @@
+A new engine, called LEAP, incorporates a nozzle made by 3-D printing.
+The material used for the fan blades is a tough ceramic that reduces the weight of the plane by 1,000 pounds.
+GE Aviation has acquired companies that specialize in direct metal laser sintering.
+Airbus has also started to experiment with additive manufacturing.

@@ -1,0 +1,4 @@
+Apple releases update to fix damage from the "Flashback" malware.
+Security firm estimates up to 600,000 Macs were infected by the Trojan horse.
+Some complained Apple took too long to address the problem.
+Flashback was discovered in September, disguised as a Flash installer.

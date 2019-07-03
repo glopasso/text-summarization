@@ -1,0 +1,3 @@
+Google is bringing Siri-like voice search features to its iPhone and iPad app.
+Search engine will now return suggestions for topics you are trying to search.
+A new Gmail search tool is available as a beta project.

@@ -1,0 +1,3 @@
+The PlexiDrone is a new ready-to-fly tool for aerial photographers.
+Software ensures the drones don't break the law by adhering to FAA regulations.
+Over the next few years, drones could become just another common consumer gadget.

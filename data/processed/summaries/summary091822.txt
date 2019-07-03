@@ -1,0 +1,3 @@
+Graph Search is Facebook's way of finding content across the network.
+System has added status updates and comments.
+User can now scan for trending conversations, a la Twitter.

@@ -1,0 +1,4 @@
+North American wireless carriers have deployed a new spam-reporting service.
+Service generates a data feed of spam reports that carriers can integrate into security.
+Organizations that disobey shortcode rules can find their shortcode lease revoked.
+The service doesn't tell you if any action was taken against the spammer you reported.

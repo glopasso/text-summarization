@@ -1,0 +1,3 @@
+Facebook error causes other sites to crash for users.
+The problem, with Facebook's log-in tool, last about 10 minutes.
+CNN, Mashable, Huffington Post, Hulu, Pinterest among the sites impacted.

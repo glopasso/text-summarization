@@ -1,0 +1,4 @@
+Vehicles can have Part Time 4WD, Full Time 4WD or Permanent 4WD.
+Part Time 4WD: Don't drive for extended time on dry pavement with 4WD engaged.
+Full Time 4WD offers both two-wheel drive mode and 4WD.
+Maintenance is extremely critical for locking hubs on 4WD vehicles.

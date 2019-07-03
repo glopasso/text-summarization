@@ -1,0 +1,3 @@
+A UK team is creating a new platform for mapping people's journey sentiments.
+The goal is to combine social media data with other sources to improve commuting.
+Project developers say it would help transport operators understand passengers' needs.

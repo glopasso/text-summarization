@@ -1,0 +1,4 @@
+2 - Number of presidents with a son who became president.
+426 - Electoral votes Bush received in the 1988 presidential election.
+168 - Electoral College votes he received in 1992, losing to Bill Clinton, who received 370.
+38 million - Archived records documenting Bush's life at his presidential library.

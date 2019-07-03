@@ -1,0 +1,4 @@
+A "trojan horse" called Mac Defender is telling Mac customers they must install anti-virus software.
+If a customer agrees, the program loads porn sites on their computer.
+Despite some perceptions, experts say the Mac isn't more secure than Windows.
+Anti-virus software will help protect your system from being infected, but it's expensive.

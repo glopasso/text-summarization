@@ -1,0 +1,3 @@
+Google Helpouts is a new marketplace for live video chats with experts.
+There are experts for beauty advice, yoga lessons and health services.
+The tool uses Google Hangouts technology for scheduled and on-demand lessons.

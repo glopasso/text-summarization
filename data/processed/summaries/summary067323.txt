@@ -1,0 +1,4 @@
+Apple introduced the next generation of its mobile operating system, iOS 6, this week.
+While certain features aren't fully baked yet, it's clear that this is a solid OS update.
+The iOS 6 platform has heavily integrated social media and sharing functions with Siri.
+We tested iOS 6 on an iPad and not an iPhone, so we can't explore all its new features.

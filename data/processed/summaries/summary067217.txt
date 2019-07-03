@@ -1,0 +1,4 @@
+Raspberry Pi s an easily-programmable, open-source computer that sells for $25.
+Its cost, size and low power requirements have made it a hit with backyard inventors.
+Creative uses of the RPi are on display in London's Design Museum.
+They range from home weather surveillance stations to personal mobile phone networks.

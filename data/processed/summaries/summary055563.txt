@@ -1,0 +1,3 @@
+Google Keep, a long-overdue app for creating lists and reminders, has arrived.
+As you'd expect, Keep is integrated with Google Drive, the company's cloud-storage service.
+Keep is only compatible with devices running Android 4.0 Ice Cream Sandwich or newer.

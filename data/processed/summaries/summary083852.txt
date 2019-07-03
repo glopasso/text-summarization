@@ -1,0 +1,3 @@
+Code for Google's Glass eyewear suggests users may snap photos with a wink of an eye.
+Google Glass just shipped to beta users but won't be available to everyone until 2014.
+The code includes provisions for enabling and disabling winks as a command.

@@ -1,0 +1,4 @@
+A post on the Facebook developer blog announces the Open Stream API.
+Third-party developers will have access to feed of all news feed content.
+Previously, only status updates were accessible to developers.
+Blog: API users will be able to use applications to interact with their stream.

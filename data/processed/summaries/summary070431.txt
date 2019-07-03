@@ -1,0 +1,3 @@
+New Web page shows profile photos of 1.2 billion Facebook users.
+Photos are arranged in chronological order by when the person joined Facebook.
+Project was conceived by Natalia Rojas, a self-described "creative technologist".

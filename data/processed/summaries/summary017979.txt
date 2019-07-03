@@ -1,0 +1,4 @@
+Last month, TheSuitest became the first hotel booking site to launch a price forecaster.
+The site is the brainchild of a Goldman Sachs analyst, and crunches millions of bits of data.
+Kayak and Bing Travel offer a similar feature for airfares, predicting if a price will rise or fall.
+Kayak taps into the billion-plus searches made on its site for its data.

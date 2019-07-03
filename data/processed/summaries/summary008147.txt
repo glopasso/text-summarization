@@ -1,0 +1,3 @@
+Extreme weather conditions can alter the performance of planes in flight.
+A lightning-lab at Cardiff University recreates the conditions present when lightning strikes a plane.
+An ice-tunnel experiment at Cranfield University analyzes the build up of ice on engines and wings.

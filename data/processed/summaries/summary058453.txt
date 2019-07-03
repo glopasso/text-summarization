@@ -1,0 +1,4 @@
+FIRA and RoboCup organizations promoting development of robots.
+Robots have been competing in regular soccer contests since the mid-'90s.
+Scientists hope to be able to beat world's top team of humans by 2050.
+Robotics developments tested in robo-soccer have uses in other fields.

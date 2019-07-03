@@ -1,0 +1,3 @@
+Wikipedia now lets users generate e-books from its content.
+Multiple encyclopedia articles can be added to a single book.
+The site says the books will be helpful for offline, mobile reading.

@@ -1,0 +1,4 @@
+LevelUp is an app that offers deals and payments.
+The app launches in New York and San Francisco on Wednesday.
+Users link a credit card to the app; when they pay, they automatically get discounts.
+The app also builds in an incentive for you to return to a business.

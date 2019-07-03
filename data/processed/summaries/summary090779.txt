@@ -1,0 +1,3 @@
+Google has added a tool that reads your handwriting and turns it into text.
+The new input option is available on Gmail and Google Docs.
+It's aimed at languages where drawing a character might be easier than typing it on a keyboard.

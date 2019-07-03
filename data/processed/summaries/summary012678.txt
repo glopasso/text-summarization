@@ -1,0 +1,3 @@
+New trial at Heathrow airport will use RFID to accurately track and monitor luggage.
+Compared to exsiting bar codes, RFID tags offer 15 percent more reading accuracy.
+A proposed service will send SMS to passengers informing when bags arrive.

@@ -1,0 +1,4 @@
+ExaFLOP supercomputers will perform a billion, billion operations every second.
+Exascale computer would be 1,000 times faster than today's quickest machines.
+Issues over power consumption remain stumbling block to their creation.
+First exaFLOP computers expected to go online around 2020.

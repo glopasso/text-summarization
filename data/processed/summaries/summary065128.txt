@@ -1,0 +1,3 @@
+If a thief got his hands on your iPhone, he can figure out where you live.
+The police could subpoena the iPhone's location database file when investigating a suspect.
+It's likely we'll see Apple issue a software update soon.

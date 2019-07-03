@@ -1,0 +1,4 @@
+About half a million users are embracing crowdsourced versions of digital maps.
+OpenStreetMap offers maps that can be customized and loaded to GPS devices.
+Crowdsourced maps can show hiking trails, whitewater rapids and other features.
+Developers are creating iPhone applications based on these maps.

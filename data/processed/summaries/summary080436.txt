@@ -1,0 +1,3 @@
+Photo-sharing service Instagram now lets you see your feed on any computer.
+Users still cannot upload photos from a desktop or browse by hashtags.
+The mobile-first company has been rolling out desktop features slowly over the past year.

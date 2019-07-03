@@ -1,0 +1,3 @@
+An FCC plan will update the technology that powers 911 emergency response system.
+This will enable the transmission of texts, voice calls, videos, photos and location information..
+The official project name is Next Generation 911 -- NG911.

@@ -1,0 +1,3 @@
+The i-Limb is the first prosthetic hand that has five individually-powered articulating digits.
+Wearers control hand via an electrical sensor that detects muscle movements in residual limb.
+Most of the 4,000+ i-Limbs in operation have been fitted to veterans from wars in Iraq and Afghanistan.

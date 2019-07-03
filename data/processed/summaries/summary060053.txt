@@ -1,0 +1,3 @@
+New Gmail tool allows sharing of files up to 10 GB.
+Feature uses Google Drive, the company's cloud storage.
+10 GB is 400 times the data currently shareable with Gmail.

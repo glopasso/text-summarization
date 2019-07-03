@@ -1,0 +1,4 @@
+Google has unveiled its first prototype of a self-driving car.
+The cars can detect objects up to 200 yards away in all directions.
+Their speed for now has been capped at 25 mph.
+The company plans to build about 100 prototypes and test them this summer.

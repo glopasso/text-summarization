@@ -1,0 +1,4 @@
+A company called Pavegen has developed a technology to turn footsteps into electricity.
+Walking and other human activities can generate power via piezoelectric cells.
+Pavegen's energy harvesting technology can produce up to 7 watts of electricity with each footstep.
+Analysts estimate the energy harvesting industry could be worth as much $30 billion by 2018.

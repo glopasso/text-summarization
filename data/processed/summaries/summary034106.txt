@@ -1,0 +1,3 @@
+OpenStreetMap aims to let users create map data free for anyone.
+More than 250,00 users have added or edited street-level maps of the world.
+The map's iPhone app has some issues, however.

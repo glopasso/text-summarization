@@ -1,0 +1,4 @@
+With reports of NSA snooping, Web security has become a focus for many.
+NSA whistleblower says encryption is an effective tool for protecting data.
+Many browsers, e-mail clients offer encrypted versions of messaging.
+Sometimes, it's as easy as adding an "S" in your URL box.

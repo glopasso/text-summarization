@@ -1,0 +1,4 @@
+Tianhe-1A unveiled Wednesday at HPC China 2010 in Beijing.
+Supercomputer has a performance record of 2.507 petaflops.
+Tianhe-1A designed by the National University of Defense Technology.
+System cost $88 million and its 103 cabinets weigh 155 tons.

@@ -1,0 +1,3 @@
+Skype adds video-chat feature to its Apple iOS app.
+iPhone 4 and 3GS users can call over AT&T's 3G network.
+Users on the iPad or older iPod Touch can receive video calls.

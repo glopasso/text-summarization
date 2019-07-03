@@ -1,0 +1,3 @@
+Google assembles Sandy crisis map.
+Interactive map shares weather, storm surge, evacuation and other information.
+Users can toggle for as much or little data as they want.

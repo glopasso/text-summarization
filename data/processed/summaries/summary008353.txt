@@ -1,0 +1,4 @@
+Attackers are using new techniques to distribute malware to phones.
+Android is a bigger mobile security concern because it's an open platform.
+It pays to stay alert to unusual activity on your phone.
+Scrutinize permissions for Android apps before you download them.

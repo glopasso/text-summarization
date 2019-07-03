@@ -1,0 +1,3 @@
+The single player campaign puts you in places such as Manhattan, London and Berlin.
+Special Ops mode takes the AI from single player, adds elements from multiplayer action.
+There are 16 new maps to set the scene during multipayer action.

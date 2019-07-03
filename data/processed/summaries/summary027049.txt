@@ -1,0 +1,3 @@
+App, simply titled Send Money, is just as straightforward as its name.
+You can send either an ecard with money or just money with no card.
+This is the first app to enable peer-to-peer payments via Facebook and PayPal.

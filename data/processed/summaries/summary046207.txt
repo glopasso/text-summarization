@@ -1,0 +1,4 @@
+2011 TED Fellow Sumit Dagar is developing the world's first smartphone for visually impaired people.
+The phone's screen contains pins which move to form Braille characters when an SMS or email is received.
+It uses Shape Memory Alloy technology which ensures pins contract back to their original position.
+The phone will retail for about $185, and the team hopes to release it by the end of 2013.

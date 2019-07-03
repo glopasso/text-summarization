@@ -1,0 +1,3 @@
+Mislove: Tweets trace the thoughts of a significant fraction of the population.
+He's researching mood of U.S. Twitter users based on their tweets.
+Research looks, for example, for occurrences of "happy" or "unhappy" words in tweets.

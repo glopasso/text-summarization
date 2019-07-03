@@ -1,0 +1,3 @@
+Using the Kinect motion sensor, kids can interact with two popular TV shows.
+Characters in the shows will talk to viewers and have them participate in show activities.
+Microsoft's Kinect system employs a voice-recognition feature.

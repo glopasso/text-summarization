@@ -1,0 +1,3 @@
+Google began offering an encrypted option for Web searchers on Friday.
+"Https://www.google.com" scrambles the words and phrases you search on.
+Secure Web search option will slow down the initial connection.

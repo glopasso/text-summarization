@@ -1,0 +1,4 @@
+NEW: Auxiliary lock used to relieve blocked river traffic.
+Lock broke Sunday morning; cause not known, Army Corps of Engineers says.
+Break happened about 65 miles northeast of Louisville, Kentucky.
+In locks, vessels are raised or lowered to match elevation ahead.

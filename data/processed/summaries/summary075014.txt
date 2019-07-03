@@ -1,0 +1,4 @@
+The Mars 2020 rover looks a lot like the Curiosity rover.
+It has better and new exploration technology.
+Cameras will see in stereo and spectrometers will analyze soil for organic material.
+It will collect soil samples for future missions to send back.

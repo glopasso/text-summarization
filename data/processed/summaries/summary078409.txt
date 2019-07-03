@@ -1,0 +1,3 @@
+Mogees is a new technology that turns any object into a musical instrument.
+It works by picking up vibrations and transforming them into notes.
+It was funded through Kickstarter and the first production units have been delivered.

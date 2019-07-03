@@ -1,0 +1,3 @@
+eHighway project aims to electrify trucks on the highway.
+It uses existing tram lines technology to make trucks almost emission free.
+The system is being tested near Berlin, but set to move to a public road in the U.S. next year.

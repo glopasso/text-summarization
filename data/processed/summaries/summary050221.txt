@@ -1,0 +1,3 @@
+Students at the Royal College of Art have created masks that can give enhanced sight and hearing.
+First mask uses a microphone to isolate a specific sound in a noisy environment.
+The other, worn over the eyes, can apply visual effects seen by the wearer in real time.

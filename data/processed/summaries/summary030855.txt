@@ -1,0 +1,3 @@
+Redesigned Dropbox has new action bar that lets users sort files.
+Dropbox supports drag-and-drop, simple multiple file sections and keyboard shortcuts.
+Photo and video viewer lets you see this content on your entire screen.

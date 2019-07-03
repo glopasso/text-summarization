@@ -1,0 +1,3 @@
+The Kepler observatory has been recording blips from 150,000 stars.
+The stars dim in brightness if a planet crosses in front of them.
+So far, Kepler has identified more than 700 planet candidates.

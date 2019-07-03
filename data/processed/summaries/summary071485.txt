@@ -1,0 +1,3 @@
+Google Plus Local will replace Google Places for local recommendations.
+The tool incorporates reviews from Zagat as well as from users' friends.
+Google is working to incorporate Google+ with its other products.

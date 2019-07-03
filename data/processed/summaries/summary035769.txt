@@ -1,0 +1,3 @@
+Mobile app "Tweet-A-Beer" is rolling out this week at South by Southwest.
+The app combines your Twitter and PayPal accounts to let you buy a beer for someone.
+Chirpify, a Twitter payment app, takes a 10-cent fee to cover the transaction.

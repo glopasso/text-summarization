@@ -1,0 +1,3 @@
+This is the second security breach at Sony in just over a week.
+Hacker LulzSec announces they have compromised more than 1 million user accounts.
+Attacks underscore just how important it is for brands to keep their web servers updated.

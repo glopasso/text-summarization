@@ -1,0 +1,4 @@
+More than 100 countries are discussing whether to keep the addition of leap seconds to the global time system.
+Many 21st century devices rely on incredibly accurate time keeping.
+The U.S. and most European nations want to abandon the leap seconds system which they say is too cumbersome.
+Without the adjustment, time measured by atomic clocks and time according to the Earth's rotation will start to deviate.

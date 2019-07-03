@@ -1,0 +1,4 @@
+Cloud Cast is a personal cooling system designed for very hot climates.
+Ultrasonic sensors recognize visitors and activate hydro-valves and LEDs in proximity to the target.
+Debuting in Dubai, the project belongs to an array of studies on temperature control infrastructures.
+The UAE is experimenting with many traditional solutions to air-conditioning, including wind towers that funnel upper currents of cool air.

@@ -1,0 +1,3 @@
+CNN answers your questions about the role delegates play in the presidential race.
+Find out the difference between delegates and "superdelegates" for Democrats.
+There are no Republican superdelegates.

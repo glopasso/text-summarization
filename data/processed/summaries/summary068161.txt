@@ -1,0 +1,4 @@
+Scientists working to convert "locked-in" man's brain signals to  speech.
+Electrode captures brain signal, converts it language voice synthesizer can read.
+Erik Ramsey is able to think, reason, but completely paralyzed except for eyes.
+Only way he can indicate what he wants is to move eyes up for "yes," down for "no".

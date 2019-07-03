@@ -1,0 +1,3 @@
+London City Airport to test Internet of Things.
+Will create a network of machines that communicate with each other.
+Concept should create an enhanced and smoother passenger experience.

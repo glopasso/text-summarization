@@ -1,0 +1,3 @@
+The Android Market website chooses a language based on where a visitor is located.
+This can be a pain for people who don't speak the national language or for travelers.
+Google says it's working on versions for other countries and languages.

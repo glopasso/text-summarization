@@ -1,0 +1,4 @@
+The AVATAR kiosk scans interview subjects for signs of lying.
+It is being trialled in Arizona and monitors voice, eyes and face movements.
+Interview subjects speak to the machine, in English or Spanish, as if it were human.
+If successful, the technology could be used elsewhere in U.S..

@@ -1,0 +1,3 @@
+Android keeps growing, with one out of three U.S. smartphone owners using it.
+Some developers say they don't like the fragmented nature of Android's store, software.
+Developer attitudes could improve as Google's system continues to mature.

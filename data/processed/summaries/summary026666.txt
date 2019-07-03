@@ -1,0 +1,4 @@
+After slow start, Android system has taken off in popularity.
+Some developers say growth has made managing apps for the system a nightmare.
+Google says it provides emulators to let developers test whether their apps work.
+It's the diversity of devices running Android that some say has led to uneven results.

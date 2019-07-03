@@ -1,0 +1,4 @@
+Conficker.c worm active in computers, but so far causes no harm.
+Experts are working with 116 countries to combat the worm.
+Washington Post blog mocks Conficker situation in April Fool's Day blog.
+Conficker.c is thought to have infected up to 10 million computers.

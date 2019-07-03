@@ -1,0 +1,3 @@
+Java vulnerability is due to incomplete patch by Oracle, researcher says.
+Java's software is on more than 1 billion PCs, smartphones and other computers.
+People who don't use Java are encouraged to uninstall it.

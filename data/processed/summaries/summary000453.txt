@@ -1,0 +1,4 @@
+A talking robot is hitchhiking west from Halifax, Nova Scotia, to Victoria, British Columbia.
+Called hitchBOT, it uses artificial intelligence and speech software to communicate.
+It relies on human drivers to ferry it from place to place.
+As of Friday the robot had reached Toronto.

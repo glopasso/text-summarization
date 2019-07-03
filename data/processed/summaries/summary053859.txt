@@ -1,0 +1,4 @@
+There have been more than a dozen attempts to attack the Healthcare.gov web site.
+None of the attacks have been successful, officials said.
+Officials also hired an "ethical hacker" to try to find holes in the system.
+HealthCare.gov went live on October 1; beset by internal problems since.

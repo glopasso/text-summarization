@@ -1,0 +1,3 @@
+The robot's name is R2, short for Robonaut 2.
+R2 will travel to the International Space Station aboard the space shuttle Discovery.
+R2 is able to perform experiments in micro-gravity, working with astronauts.

@@ -1,0 +1,2 @@
+Facebook chat gimmick lets you insert faces of friends, others.
+A pair of double brackets around a profile ID name or number makes it happen.

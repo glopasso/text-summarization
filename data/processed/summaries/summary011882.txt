@@ -1,0 +1,4 @@
+FBI turns off computer servers that prop up people infected with a piece of malware.
+The DNSChanger malware affects how computers look up Internet addresses.
+FBI: A "click-jacking" scam leads to the issue.
+Relatively few computers remain infected with the program.

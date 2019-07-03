@@ -1,0 +1,3 @@
+Singapore-based Viki provides TV series and films from around the world.
+Fans subtitle the shows into their languages of choice through crowdsourcing.
+Site started out as business school project and has won several tech awards.

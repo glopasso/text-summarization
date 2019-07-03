@@ -1,0 +1,3 @@
+Redesigned from the ground up, the tablet LinkedIn app looks nothing like the LinkedIn website.
+The app also pulls in details of the day ahead from your Google Calendar or Exchange calendar.
+More than 22% of LinkedIn traffic comes from mobile devices, up from 8% a year ago.

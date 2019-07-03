@@ -1,0 +1,3 @@
+Doctor: Body mass index is useful snapshot of how weight compares to healthy standards.
+A BMI between 18.5 and 24.9 indicates a normal weight.
+Doctor's study shows BMI is helpful in predicting obesity-related health risks.

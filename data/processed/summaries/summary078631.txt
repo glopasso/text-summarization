@@ -1,0 +1,4 @@
+Skype has made technical changes to the way calls are placed.
+The calls now are routed by Microsoft- or Skype-owned computers.
+Previously, other computers on the network served in this directory function.
+The change makes some people worry the company could "wiretap" video calls.

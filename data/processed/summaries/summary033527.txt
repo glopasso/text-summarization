@@ -1,0 +1,4 @@
+Pixar faced many new technological challenges on its film "Up," opening Friday.
+The movie is about an old man who flies away on a house lifted by balloons.
+Pixar used a programmed physical simulator to animate thousands of  balloons.
+Studio's goal is to make even the hardest animation problems look simple on screen.

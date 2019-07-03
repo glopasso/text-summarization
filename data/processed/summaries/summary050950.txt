@@ -1,0 +1,4 @@
+Firefly is Amazon's recognition tool for the new Fire Phone.
+Amazon says Firefly can identify more than 100 million items.
+Users can then click to buy an item from Amazon.
+Phone is designed to pull you into Amazon's growing universe of services.

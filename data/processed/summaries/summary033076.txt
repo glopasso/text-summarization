@@ -1,0 +1,4 @@
+The "Zombie" virus is transmitted from cell phone to cell phone.
+The virus binds with a security ap, which transmits SIM card data to a central server.
+Hackers at other end send back virus-ridden links for games and software, CCTV says.
+Nearly 1 million phones in China were infected in the first week of September, official says.

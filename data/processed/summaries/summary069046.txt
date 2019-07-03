@@ -1,0 +1,3 @@
+Cloud-storage service Dropbox has a new app for organizing photos called Carousel.
+Carousel attempts to solve the problem of scattered digital photos across devices.
+The company also announced new Mailbox apps and Dropbox for Business.

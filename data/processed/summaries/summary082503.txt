@@ -1,0 +1,3 @@
+Many traffic slowdowns are just chain reactions started by cars hastily slowing down.
+An MIT professor has developed a system for preventing these types of jams.
+Cars with mounted cameras or sensors can track cars around them and better regulate speed.

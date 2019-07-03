@@ -1,0 +1,4 @@
+A German security researcher says he has developed an app that could hack planes.
+Hugo Teso is a security consultant and a licensed commercial pilot.
+His software, SIMON, is designed to work only on simulations.
+He's contacted makers of air-traffic systems and authorities in U.S. and Europe.

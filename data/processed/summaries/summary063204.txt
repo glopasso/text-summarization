@@ -1,0 +1,3 @@
+IBM bans Siri on its network, according to Technology Review.
+The technology company worries Apple may store voice requests.
+Messages are "sent to Apple in order to convert what you say into text".

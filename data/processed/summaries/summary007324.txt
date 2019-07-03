@@ -1,0 +1,3 @@
+At online-shopping warehouse, 200 robots help workers dispatch retail orders.
+The robots, made by Amazon subsidiary Kiva, have a reported accuracy rate of 99.99%.
+They have their own names and can even find their charging station.

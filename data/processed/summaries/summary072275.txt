@@ -1,0 +1,3 @@
+Promotion/relegation systems are used in football leagues around the globe.
+The method transfers teams between divisions depending on performance.
+The U.S. and Australia are two major countries that don't use relegation.

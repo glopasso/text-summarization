@@ -1,0 +1,4 @@
+Agoda.com analyzed 7 million hotel reviews to determine which destinations have the highest-rated accommodations.
+Only destinations with more than 100 hotels included in the study.
+Cape Town, South Africa, takes the number one spot, scoring an average of 8.43 out of 10.
+In terms of value, Budapest, Hungary, has the top rating from Agoda.com reviewers.

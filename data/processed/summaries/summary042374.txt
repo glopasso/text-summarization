@@ -1,0 +1,3 @@
+Google rolled out a new version of its popular Maps app.
+Release has versions optimized for iPad and Android tablets.
+It also has "intelligent re-routing" that considers traffic.

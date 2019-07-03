@@ -1,0 +1,4 @@
+High frequency trading uses algorithms to conduct trades in fractions of a second.
+It can cause individual stock prices to spike and dip close to zero, says Neil Johnson.
+These "sub-second tsunamis" go unnoticed and are over in the blink of an eye.
+Governments need a financial "air traffic control system" to manage this, says Johnson.

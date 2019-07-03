@@ -1,0 +1,3 @@
+Smaller, round robots could help the next rover mission to Mars.
+Each ball runs on two solar-powered motors.
+Some of the advantages include not flipping over and fewer motors to repair.

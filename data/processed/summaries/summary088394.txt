@@ -1,0 +1,4 @@
+Facebook introduces upgraded search tool called Graph Search.
+Graph Search will let users search in more detail for people, photos, places and interests.
+For example, it could show you photos of Berlin from 1989.
+Mark Zuckerberg: "This is one of the coolest things we've done in a while".

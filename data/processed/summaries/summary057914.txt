@@ -1,0 +1,4 @@
+Site member built poll asking if president should be killed.
+Social networking site pulls third-party application that allows users to create polls.
+Possible poll responses: "yes," "maybe," "if he cuts my health care" and "no".
+Facebook lets third-party developers create applications such as polls, quizzes.

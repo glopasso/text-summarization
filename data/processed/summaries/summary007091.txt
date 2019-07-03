@@ -1,0 +1,3 @@
+Use DealBase to pick a hotel package and to get a breakdown of the estimated costs.
+HotelSweep is best for travelers who prefer staying at independently owned properties.
+Room 77 works like a typical search engine, only it goes into greater detail on hotel amenities.

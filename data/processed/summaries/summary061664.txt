@@ -1,0 +1,4 @@
+Researchers find computer malware aimed at Mac computers.
+The "iBotnet" infects a small number of Mac users through pirated software.
+Still, researchers say it is a step in the evolution of harmful computer programs.
+As Macs become more popular, they're more likely to be targets, experts say.

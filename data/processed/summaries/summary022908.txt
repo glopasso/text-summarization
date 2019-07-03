@@ -1,0 +1,4 @@
+Introducing GimBall, the flying robot that moves like a fly.
+The machine features a protective cage that lets it bounce off surfaces.
+Includes a small in-built camera.
+Swiss scientists hope it will be used in search and rescue missions in the future.

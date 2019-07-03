@@ -1,0 +1,3 @@
+LastPass announced Wednesday that it may have been hacked.
+Not all LastPass users are equally at risk, however.
+LastPass noticed some anomalies in data traffic to and from its servers that it couldn't explain.

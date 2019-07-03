@@ -1,0 +1,4 @@
+Google adds personalized voice searches to mobile and desktop search.
+When logged in you can ask about your calendar, flights, purchases, and photos.
+The answers are pulled from your Google e-mails, calendars and Google+.
+This marks the latest attempt by Google to become an intelligent personal assistant.

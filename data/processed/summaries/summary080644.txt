@@ -1,0 +1,3 @@
+Stuxnet, a new piece of computer malware, has unprecedented potential.
+It exploits four holes and goes straight to the brain of industrial computers.
+It's not internet based, but can use the internet to spread.

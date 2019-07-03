@@ -1,0 +1,4 @@
+Steve Jobs hated Adobe's Flash, which will quit developing for mobile devices.
+The Apple CEO's feud dated to 1999, when Adobe wouldn't develop for the Mac.
+He called Flash "buggy;" while Adobe criticized Apple for depriving developers of freedom.
+Adobe will now support HTML5, which Apple's mobile devices use.

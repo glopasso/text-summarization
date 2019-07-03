@@ -1,0 +1,3 @@
+NEW: Disabled cargo ship and tow boat take long route to harbor because of rough seas.
+The 738-foot Golden Seas freighter is carrying canola seeds, oil and diesel.
+Ship's engine failed while traveling from Vancouver, Canada, to United Arab Emirates.

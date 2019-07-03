@@ -1,0 +1,3 @@
+Point is a new kind of home security gadget that listens constantly for unusual sounds.
+It can pick up a window breaking or loud talking and send an alert to a smartphone.
+Co-founder Nils Mattisson spent 7 years in Apple's Exploratory Design Group.

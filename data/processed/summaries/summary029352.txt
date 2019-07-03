@@ -1,0 +1,3 @@
+A new device can detect heartbeats of disaster survivors under 40 feet of rubble.
+Called FINDER, It was created by researchers at NASA's Jet Propulsion Laboratory.
+The device could be used in earthquakes, avalanches and tornadoes.

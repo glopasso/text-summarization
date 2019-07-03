@@ -1,0 +1,4 @@
+Shortened URL services growing in popularity thanks to services like Twitter.
+Short URL company Bit.ly developing to allow web traffic tracking and a free analytics.
+Other link shorteners allow for ads as new form of revenue model.
+Many web users remain wary of clicking on shortened URLs.

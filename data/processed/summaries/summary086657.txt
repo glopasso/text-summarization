@@ -1,0 +1,3 @@
+A new app helps marketers get a better understanding of a Facebook page's value.
+Submit a Facebook page URL to see a valuation based on factors like number of fans.
+The tool, built in a Startup Weekend-style project, is adjustable and interactive.

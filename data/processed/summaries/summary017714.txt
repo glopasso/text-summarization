@@ -1,0 +1,4 @@
+A CNN review of cyber attacks on federal agencies shows such breaches are a growing problem.
+The number of cyber attacks on government systems has jumped 35 percent in three years.
+One of the biggest culprits is human error, experts say.
+Some of the victims include systems at the White House and Department of Energy.

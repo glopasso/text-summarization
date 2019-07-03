@@ -1,0 +1,3 @@
+Groupon is preparing to launch a new app, Groupon Now.
+User opens the app, will be presented with just two buttons: "I'm hungry" and "I'm bored".
+Clicking either button will open up a list of time-specific daily deals, based on location.

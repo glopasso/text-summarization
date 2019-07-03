@@ -1,0 +1,4 @@
+The International Labor Organization compiles the average wage of the world.
+The data comes with important caveats, including how many people are "employees".
+Global wages are compared by converting into "purchasing power parity" dollars.
+This shows how much your earnings buy you compared to someone earning in the U.S..

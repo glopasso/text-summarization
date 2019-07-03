@@ -1,0 +1,3 @@
+Air traffic controllers to get flight in cockpit.
+Idea is to better understand pilot workload and vice versa.
+FAA is restoring program killed by Sept. 11.

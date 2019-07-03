@@ -1,0 +1,3 @@
+Robohand makes cheap artificial hands and arms using 3-D printers.
+Founder Richard van As lost four fingers in a carpentry accident.
+Robohand's designs are open source so others can download and print them.

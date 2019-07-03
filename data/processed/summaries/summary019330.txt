@@ -1,0 +1,3 @@
+iOS 5.0.1 was released to update and fix issues that drained the iPhone's battery.
+Users of Apple's iPhone 4S and other iOS 5 operated phones reported shorter battery lives.
+Apple admitted that iOS 5 had battery performance issues.

@@ -1,0 +1,4 @@
+A new app would warn users whether incoming messages are positive or negative.
+"Stress @ Work" is an Android app by a student at England's University of Portsmouth.
+It uses color codes and works on Facebook, Twitter and for text messages.
+It's not yet available on the market but will be presented at a conference in September.

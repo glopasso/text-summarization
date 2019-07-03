@@ -1,0 +1,3 @@
+Google Maps to roll out redesign with better navigation tools and a view from space.
+Incidents that might affect traffic will be shown on the map in real time.
+The maps will be personalized, showing custom information for each click.

@@ -1,0 +1,3 @@
+Hackers use possible Amazon and Apple security holes to delete tech writer's data.
+Hackers use fairly basic techniques to accomplish the hack.
+Apple: "We found that our own internal policies were not followed completely".

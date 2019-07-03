@@ -1,0 +1,3 @@
+The Tonic Health app uses colorful graphics, interactive features to ask questions.
+Doctors can get a real-time risk assessment on their tablets before seeing patients.
+Intake info should be integrated with electronic health records, doctor says.

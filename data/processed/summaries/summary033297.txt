@@ -1,0 +1,3 @@
+The HapiFork tracks how quickly you eat, vibrating if your bites are less than 10 seconds apart.
+The company behind the smart fork has launched a Kickstarter campaign to raise $100,000.
+Fork is one of many household objects that will likely get sensors in coming years.

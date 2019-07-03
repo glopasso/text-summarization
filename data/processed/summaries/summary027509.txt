@@ -1,0 +1,4 @@
+Computer makers are working on bringing instant-on computing closer to reality.
+Makers of PCs' basic input/output systems (BIOS) promise much faster boot times.
+One maker says its latest version of BIOS can boot in just about a second.
+Consumers now expect instant response from many of their electronics devices.

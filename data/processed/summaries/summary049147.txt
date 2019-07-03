@@ -1,0 +1,4 @@
+As Apple's operating system emerges, Linux stalls.
+Open-source system has found a home on data-center servers, but not captured the public.
+One creator says developers who could have pushed Linux have defected.
+At Mozilla Foundation, focus is now on Web development.

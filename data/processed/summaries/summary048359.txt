@@ -1,0 +1,3 @@
+A Facebook intern created a visualization of Facebook connections around the globe.
+Using a sample of 10 million friend pairs, he correlated them with their current cities.
+The U.S. has the highest concentration of Facebook friendships while Africa has the lowest.

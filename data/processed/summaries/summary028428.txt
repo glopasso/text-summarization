@@ -1,0 +1,3 @@
+IE6 usage in the U.S. has fallen to 4.7 percent from 11.5 percent in the last year.
+IE6 kept a solid chunk of the market share even after IE 7 and 8 were released.
+For years, IE6 caused headaches for developers.

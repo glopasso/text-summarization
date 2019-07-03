@@ -1,0 +1,3 @@
+'Vessyl' has a sensor that analyzes the molecular content of drinks in real time.
+It then displays selected nutritional information such as alcohol content on the side.
+The device can be set to meet a variety of needs, from weight loss to improved sleep.

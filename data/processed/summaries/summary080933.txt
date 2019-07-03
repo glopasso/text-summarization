@@ -1,0 +1,3 @@
+Professor, students expose vulnerabilities in internet-based voting system.
+Halderman's team modified online ballots; had page play University of Michigan fight song.
+Halderman says other hackers were guessing at password, and likey would have succeded.

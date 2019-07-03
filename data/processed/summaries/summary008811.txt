@@ -1,0 +1,4 @@
+In-flight Internet relies on transmitting signals to the ground.
+Airlines haven't found cost-effective way of providing Wi-Fi service while over water.
+Main drawbacks are cost, added weight of equipment for satellite transmission.
+Several airlines plans to start offering the service this year.

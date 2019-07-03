@@ -1,0 +1,3 @@
+U.S. shut down 19 of 24 land-based Loran-C navigation stations on Monday.
+Administration says Loran no longer needed in era of Global Positioning System.
+Critics warn GPS is vulnerable to cyber-attacks, suggest keeping Loran as backup.

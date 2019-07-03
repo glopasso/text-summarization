@@ -1,0 +1,3 @@
+Cepheus has already played millions of hands of hold 'em poker.
+It learned from its mistakes and now can beat any human.
+Scientists say it's a breakthrough in artificial intelligence that might have applications in other areas.

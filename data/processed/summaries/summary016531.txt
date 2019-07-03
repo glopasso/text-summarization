@@ -1,0 +1,3 @@
+A Defense agency is working on a surveillance robotic hawk that could fly through an urban combat jungle at 45mph.
+The study is looking at developing new algorithms to allow a small UAV to operate without a remote pilot.
+The algorithms developed in the program could enhance other unmanned missions, including marine environments.

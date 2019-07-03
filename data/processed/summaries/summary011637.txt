@@ -1,0 +1,3 @@
+The service adds a new "Save to Amazon Cloud Drive" button for saving MP3s to the cloud.
+Users are given 5 GB of free storage, but can get 20 GB if they purchase an album.
+Google and Apple have been rumored to be hard at work on their own cloud-based players.

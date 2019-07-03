@@ -1,0 +1,3 @@
+The inFORM Dynamic Shape Display is a table that can render 3D content physically.
+Using a Kinect sensor, users can create a 3D likeness of their hands.
+The display can also be used as a controller.

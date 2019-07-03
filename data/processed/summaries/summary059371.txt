@@ -1,0 +1,3 @@
+Google Maps' mobile app now includes real-time updates on traffic, accidents.
+Users' reports of construction or road closures also will appear on the app.
+The information comes via social-mapping app Waze, which Google bought this year.

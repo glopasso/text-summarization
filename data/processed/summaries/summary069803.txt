@@ -1,0 +1,3 @@
+Software program says it has successfully predicted outcome of round of 16 World Cup games.
+Program named after the AI character in Microsoft's Halo video games.
+But who will reach World Cup semifinals?.

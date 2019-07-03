@@ -1,0 +1,4 @@
+Google announces new features for its search engine at its Google I/O conference.
+Chrome will be able to begin voice-activated searches when people say, "OK Google".
+Search results will add contextual information based on common follow-up searches.
+Predictive search tool Google Now is adding reminders.

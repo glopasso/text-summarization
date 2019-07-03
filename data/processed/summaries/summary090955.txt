@@ -1,0 +1,3 @@
+Facebook's Nearby Friends feature shares your general location with chosen friends.
+The tracking tool is opt-in so people won't accidentally share their location by default.
+Nearby Friends also has an option for sharing a user's exact location on a map.

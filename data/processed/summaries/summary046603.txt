@@ -1,0 +1,4 @@
+ACLU: Phone location tracking is a common tool of police, often without a warrant.
+Fewer than 5% of agencies say they've never tracked a cell phone's location.
+Most carriers require a court order to implement cell phone surveillance.
+Cell phone companies have manuals for police explaining what data they store.

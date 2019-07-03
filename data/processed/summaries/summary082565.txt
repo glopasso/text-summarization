@@ -1,0 +1,3 @@
+The object is a tank that provides power and water for shuttle missions.
+It was found after drought caused lake waters to recede.
+Columbia broke up while re-entering atmosphere in 2003.

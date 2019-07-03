@@ -1,0 +1,3 @@
+New PetMatch app lets you upload photos to find a lookalike for a dog or cat.
+App's photo-recognition searches PetFinder for the closest match.
+It's currently available only for Apple mobile devices.

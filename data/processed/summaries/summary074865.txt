@@ -1,0 +1,3 @@
+Google introduces Knowledge Graph, a revamped effort to make search more intuitive.
+New tool divides search terms into most likely categories.
+Knowledge Graph begins rolling out Wednesday to users in the U.S..

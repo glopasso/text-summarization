@@ -1,0 +1,3 @@
+With Square Cash, users can make payments remotely via e-mail.
+The system requires sender to register credit card and recipient a debit number.
+Square was founded in 2009 as a way to let small businesses to accept cards.

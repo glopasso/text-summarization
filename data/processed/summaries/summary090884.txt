@@ -1,0 +1,3 @@
+Facebook found and fixed a bug that compromised the contact information of 6M users.
+The exposure of e-mail addresses and phone number appears to be very limited.
+A third-party security researcher found and reported the bug.

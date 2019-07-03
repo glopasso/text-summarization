@@ -1,0 +1,3 @@
+New service lets workers access pay they've already earned, before payday.
+Instead of charging fees or interest ActiveHours allows users to pay what they want.
+The service is only available to hourly workers.

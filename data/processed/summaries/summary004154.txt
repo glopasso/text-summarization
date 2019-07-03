@@ -1,0 +1,3 @@
+Amazon's Kindle Touch uses infrared sensors to avoid screen glare.
+Jeff Bezos had previously said no to touch screen Kindles due to limitations.
+Other e-readers from Sony and Barnes & Noble already use infrared.

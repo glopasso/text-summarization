@@ -1,0 +1,3 @@
+The monitor works with software made by DigitalOptics Corporation.
+The sensor determines whether you're sitting at an optimal distance from the monitor.
+The device is made out of 65% recycled plastics.

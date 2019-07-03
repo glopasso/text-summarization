@@ -1,0 +1,4 @@
+Apple's iOS 8 will bring big changes for how iPhone users send and receive messages.
+Apple is borrowing features from popular messaging platforms like Snapchat and WhatsApp.
+Audio and video messages within iOS 8 will automatically vanish within a few minutes.
+Group messaging threads will feature a "Do Not Disturb" function.

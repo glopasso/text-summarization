@@ -1,0 +1,4 @@
+Amazon unveils Web browser called Silk.
+At least for now, the browser works only on the new Kindle Fire tablet.
+Silk routes Internet traffic through Amazon's cloud.
+It claims faster performance, but it may also collect lots of user data.

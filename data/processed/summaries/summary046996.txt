@@ -1,0 +1,4 @@
+Experts: iPhones and Android devices will not see a global messaging crash.
+BlackBerry filters messages through its own servers; Apple and Google don't.
+BlackBerry's middle-man approach to messaging is what crashed this week.
+Millions of BlackBerry users were without e-mail service for more than three days.

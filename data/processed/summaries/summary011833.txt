@@ -1,0 +1,3 @@
+Hackers discover security hole in Skype that allows outsider to access a user's account.
+Skype has suspended its password-reset feature temporarily as a precaution.
+The issue was posted on a Russian forum and then gained traction on Reddit.

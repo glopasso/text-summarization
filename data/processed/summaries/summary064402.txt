@@ -1,0 +1,3 @@
+Introducing SkyCall, the flying robot turned personal tour guide.
+Students at MIT have been using drone to navigate maze-like campus.
+Quadrocopter is brainchild of MIT scientists, hope to use technology in rescue missions.

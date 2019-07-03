@@ -1,0 +1,4 @@
+NEW: Circuit breakers slow any large drops in the market.
+The Egyptian exchange closed January 27 in the midst of anti-government protests.
+A political uprising overthrew President Hosni Mubarak.
+Egyptian voters have approved constitution amendments that pave the way for parliamentary elections.

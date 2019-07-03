@@ -1,0 +1,4 @@
+A new report from the Guardian newspaper claims Microsoft willingly collaborated with the NSA.
+Report: Microsoft allowed feds to circumvent its encryption system to spy on users.
+Microsoft says it turns over data on customers only in response to legal requests.
+Microsoft: We do "not provide any government with blanket or direct access to ... any Microsoft product".

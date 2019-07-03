@@ -1,0 +1,3 @@
+Dennis Ritchie is the father of the C programming language.
+Ritchie used C to build UNIX, the OS that so much is built on.
+"We're all standing on Dennis' shoulders," expert says.

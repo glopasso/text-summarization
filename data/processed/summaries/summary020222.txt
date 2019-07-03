@@ -1,0 +1,3 @@
+"Underworlds" project will analyze sewage to spot diseases.
+Monitoring city sewage could reveal infections circulating in the population.
+The project could one day be applied to create individual "smart toilets".

@@ -1,0 +1,3 @@
+Facebook testing feature that allows users to receive alerts when a friend takes action.
+When you subscribe to a user, you'll get a notification when they post content.
+Not sure yet if you can subscribe to someone who's not a friend.

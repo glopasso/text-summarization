@@ -1,0 +1,4 @@
+A joint venture between design teams at MIT's Tangible Media Group and the Fluid Interface Group have incorporated the social network into a garment.
+The group of MIT students behind the project  wanted to look at ways of seeing how social media worked outside the confines of the computer screen.
+The T-shirt's pattern is printed in thermo-chromatic ink with a thin circuit membrane under the weave and uses Bluetooth to pair with your phone.
+Groups that need to find each other in a crowd -- from industry conferences to people who are part of a niche interest -- are likely to want to use the clothing.

@@ -1,0 +1,4 @@
+Yahoo says it will encrypt all information that travels between its data centers.
+The change will take place by the end of March 2014.
+CEO Marissa Mayer announced change as an effort to protect users' privacy.
+Move comes after documents revealed NSA had secretly collected data from Yahoo.

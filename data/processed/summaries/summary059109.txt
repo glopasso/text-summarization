@@ -1,0 +1,4 @@
+Float gives Beijing residents the tools to measure air quality for themselves with pollution-sensing kites.
+Air quality is politically-sensitive in China, with official readings not considered accurate.
+Kites equipped with modules that detect carbon monoxide, volatile organic compounds, particulates.
+Float: Urban air quality is a serious issue that affects rapidly industrializing cities globally.

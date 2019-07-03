@@ -1,0 +1,4 @@
+Security firm: Global cyberattack was launched from more than 100,000 everyday appliances.
+Gadgets included routers, televisions and at least one "smart" refrigerator.
+Proofpoint said the attack occurred between December 23 and January 6.
+Poorly protected "smart" devices may be easier to infect and control than PC, laptops, or tablets.

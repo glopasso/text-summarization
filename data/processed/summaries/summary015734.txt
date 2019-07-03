@@ -1,0 +1,4 @@
+Sonar, Highlight and Banjo are a new wave of social apps that were all the buzz at SXSW.
+Sonar shows who is chilling at hot spots near you and who you might be interested to meet.
+Highlight alerts you when people who share your interests are nearby.
+Banjo lets you see whatever content -- tweets, photos, etc. -- nearby users are sharing.

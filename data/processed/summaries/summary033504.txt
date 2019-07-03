@@ -1,0 +1,4 @@
+James Gleick wrote a new book "The Information" about history of information.
+Says scientific definition of information is a mathematical quantity, measured in bits.
+"Chaos" author also says that for humans, information is how we know something.
+Gleick says the actual communication is more important than devices used to communicate.

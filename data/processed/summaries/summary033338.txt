@@ -1,0 +1,4 @@
+Software giant Microsoft offers $250,000 bounty to catch Conficker author.
+Industry analysts say is one of the most serious infections they have ever seen.
+The worm exploits a bug in Microsoft's ubiquitous Windows software.
+Virus could allow its creators to hijack entire networks.

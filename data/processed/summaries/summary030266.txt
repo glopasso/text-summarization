@@ -1,0 +1,3 @@
+RootMetrics performed a study to determine how each network's 4G speeds are holding up.
+Findings showed Verizon's LTE network performed at a 100 percent data-success rate.
+Verizon's average upload speeds were faster than every other carrier's average download speeds.

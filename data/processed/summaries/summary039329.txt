@@ -1,0 +1,3 @@
+Outlook Social Connector syncs social networking feeds with your Outlook contacts.
+New Facebook status updates will pop up in realtime within Outlook.
+Outlook will only pull data from e-mails connected to Facebook accounts.

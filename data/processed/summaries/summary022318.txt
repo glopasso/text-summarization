@@ -1,0 +1,3 @@
+Tikker counts down to let you know when you will die.
+The idea is to make you aware of death and appreciate being alive.
+The Tikker watch also tells normal time.

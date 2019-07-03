@@ -1,0 +1,3 @@
+NEW: Ads began to appear on December 31 and were removed Friday, Yahoo says.
+Yahoo's servers released a kit that exploited Java and installed malware.
+An IT security firm estimates tens of thousands of users were affected per hour.

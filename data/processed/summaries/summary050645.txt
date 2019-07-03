@@ -1,0 +1,4 @@
+Entire 'Wii Fit' setup doesn't take up much space, and the board is no eyesore.
+Wii Fit calculates your body mass index (BMI), a metric many doctors use.
+Program organized into 48 activities divided among four general areas.
+People over 6 feet tall or with broad shoulders may find some activities difficult.

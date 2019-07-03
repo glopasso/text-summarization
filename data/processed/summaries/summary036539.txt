@@ -1,0 +1,3 @@
+On Wednesday, Amazon Elastic Cloud Compute collapsed.
+The trouble was due to excessive re-mirroring of its Elastic Block Storage volumes.
+The collapse affected were Foursquare, Quora, Hootsuite, SCVNGR, and many others.

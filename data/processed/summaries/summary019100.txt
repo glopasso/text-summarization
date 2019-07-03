@@ -1,0 +1,3 @@
+Google has created an algorithm that scores videos based on user feedback, other info.
+Users can vote on YouTube's top finishers in a "Comedy Slam".
+Researcher: "Humor preference is subjective, perhaps even more so than musical taste".

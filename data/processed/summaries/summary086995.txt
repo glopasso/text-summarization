@@ -1,0 +1,4 @@
+An FAA computer system misinterpreted a spy plane's altitude and path.
+The U-2's many flight changes overtaxed system, eventually led to a ground stop.
+Flights, especially to Southern California, were delayed and diverted.
+The FAA has added memory to prevent a recurrence of the problem, agency says.

@@ -1,0 +1,4 @@
+Gmail mobile app is released, then pulled, from Apple's online store.
+The app was made available for the iPhone, iPad and iPod Touch.
+Google said bugs broke the app's notification system and caused error messages.
+No word on when fixed Gmail app will be released.

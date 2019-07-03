@@ -1,0 +1,4 @@
+Arduino, the open source electronic hardware, hails from Ivrea, the home of Olivetti.
+Olivetti was once at the forefront of Italian technology and designed the world's first PC.
+There are now more than 700,000 Arduino boards in the hands of hobbyists and professionals.
+An Arduino circuit board will go on display at MoMA in New York in 2015.

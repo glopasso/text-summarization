@@ -1,0 +1,3 @@
+Apple says Friday a glitch causing apps to crash has been fixed.
+Problem was noted by creator of the app Instapaper.
+Users can delete, then re-install, affected apps.

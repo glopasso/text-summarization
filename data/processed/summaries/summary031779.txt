@@ -1,0 +1,4 @@
+Google announces Google Voice, a phone service over the Internet.
+The service offers "speech-to-text" transcriptions of voice messages.
+Head of Google Voice: company plans to offer service for free.
+Public users sign up for service starting in "a number of weeks".

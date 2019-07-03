@@ -1,0 +1,3 @@
+New robotic system separates recyclable materials from construction waste.
+Construction and demolition industries produce one third of all waste worldwide.
+Robot scans objects with weight measurement, 3-D scanning and spectrometer.

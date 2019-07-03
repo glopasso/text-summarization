@@ -1,0 +1,3 @@
+The inner workings of the Verizon iPhone provide hints as to Apple's future plans.
+Apple is using a cellular chip capable of connecting to both Verizon's and AT&T's networks.
+An analyst says Apple's next iPhone could work on both major U.S. networks.

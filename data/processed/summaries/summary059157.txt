@@ -1,0 +1,4 @@
+Leap Motion controller lets you manipulate computer apps with hand gestures.
+Using motion sensors, the controller detects your hand movements 2 feet away.
+Navigating with Leap takes practice as the device can be maddeningly sensitive.
+The controller costs $80 and will be available at Best Buy starting July 28.

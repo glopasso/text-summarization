@@ -1,0 +1,4 @@
+Electronic nose to detect trace amounts of explosive compounds.
+Device to be used in high-risk areas, like airports and shipping terminals.
+Sensory array will recognize specific gases, like those found in TNT.
+E-nose will equal smelling capabilities of canine nose, say researchers.

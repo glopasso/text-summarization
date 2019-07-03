@@ -1,0 +1,4 @@
+MIT team was first to discover the locations of 10 balloons scattered across U.S..
+Contest tested use of Web-based techniques to achieve time-critical tasks.
+Challenge was announced on anniversary of first message sent on Internet's precursor.
+DARPA: Winning team discovered balloons' locations less than nine hours after launch.

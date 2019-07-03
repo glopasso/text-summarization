@@ -1,0 +1,4 @@
+Conficker, a feared computer worm, hasn't caused much damage yet.
+Security experts disagree about whether Conficker threat has passed.
+Worm made news because of an supposed April Fool's Day attack.
+Some infected computers have received malicious anti-virus software.

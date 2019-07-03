@@ -1,0 +1,4 @@
+Report: It's easy to identify smartphone users by their movements.
+Researchers from MIT and elsewhere tracked 1.5 million people for 15 months.
+Each mobile user's daily movements are unique and create a "fingerprint".
+Privacy advocates worry how law enforcement and others may use that data.

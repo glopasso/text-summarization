@@ -1,0 +1,3 @@
+Companies like Facebook and Google must balance advertiser and customer data demands.
+All major browsers now offer a "do not track" setting, but it is difficult to enforce.
+Privacy settings will probably become more customizable and easier to understand.

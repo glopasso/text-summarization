@@ -1,0 +1,3 @@
+As location technology grows, mobile apps are trending toward "discovery".
+Trover lets users see photos of interesting things that others have shared nearby.
+Alfred, from Cleversense, uses a Web crawler to compare your favorites to spots near you.

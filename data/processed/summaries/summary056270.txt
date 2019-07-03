@@ -1,0 +1,3 @@
+Dropbox has added photo and video import to its app.
+Photos and videos will be slurped up from any memory card or camera.
+This feature also adds complexity to the Dropbox application itself.

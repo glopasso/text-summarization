@@ -1,0 +1,4 @@
+In an experiment, a security firm deliberately "lost" 50 Android phones in certain cities.
+More than 40% of finders of the phones tried to access corporate e-mail, online banking.
+Avoid storing passwords in your mobile apps to protect your accounts from being hijacked.
+Notify your carrier if you've lost your cell phone so it can shut off the service.

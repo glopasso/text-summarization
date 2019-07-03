@@ -1,0 +1,3 @@
+A buggy app in Google's new mobile operating system omits the month of December.
+One headline asks, "Is Google the new Grinch who stole Christmas?".
+NEW: Google posted a statement Tuesday vowing to fix the problem.

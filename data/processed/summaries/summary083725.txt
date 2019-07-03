@@ -1,0 +1,4 @@
+Roomba creators iRobot reveal how they learned from robotic experiments.
+The algorithm that powers Roomba's movements was developed for clearing minefields.
+Co-founder Colin Angle says iRobot originally planned to go to the moon.
+The future: a "menagerie of robots" -- some friendly, some invisible....

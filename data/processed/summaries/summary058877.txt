@@ -1,0 +1,4 @@
+Target email speaks to victims who are opposed to ISIS and asks for their help.
+It contains a link to a file sharing site, where a malicious file is hidden among photos.
+Malware is artless, and the writer encrypted it wrong.
+But it's dangerous: Being bare-bones makes it hard for security software to detect.

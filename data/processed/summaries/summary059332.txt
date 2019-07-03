@@ -1,0 +1,3 @@
+Researchers say they can hack Apple mobile devices through the charger.
+Georgia Tech team will present findings at Black Hat security conference.
+Claim: Malicious charger "Mactans" can hack iOS in less than a minute.

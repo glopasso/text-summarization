@@ -1,0 +1,4 @@
+Some Web developers are trying to rid Internet Explorer 6 from peoples' computers.
+They say the 8-year-old browser is stalling future development of the Web.
+Still, IE 6 is among the most common ways for people to access the Internet.
+Other free browsers like IE 8, Firefox and Chrome are far better, experts say.

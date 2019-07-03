@@ -1,0 +1,4 @@
+ICE keeps doctors' numbers, medical conditions and insurance information.
+iStone comes with more than 300 phrases in 12 languages.
+PressReader delivers 2,000 newspapers, more than 1,200 of them in English.
+LocalEats culls food choices based on media reviews and diner recommendations.

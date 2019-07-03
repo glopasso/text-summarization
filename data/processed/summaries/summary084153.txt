@@ -1,0 +1,3 @@
+Localytics claims that Android fragmentation might be becoming less of a issue.
+Screen size and resolution are also key variables for creating Android apps.
+Nearly three-fourths of Android app usage came from devices running on "Gingerbread".

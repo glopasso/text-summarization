@@ -1,0 +1,4 @@
+New Google software, Latitude, lets cell phone users share their location with others.
+Google hopes it will help people find each other and keep track of loved ones.
+To protect privacy, Google specifically requires people to sign up for the service.
+People can share their precise location, the city they're in, or nothing at all.

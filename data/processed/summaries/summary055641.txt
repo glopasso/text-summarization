@@ -1,0 +1,4 @@
+Facebook Home could give the company access to more of your personal data.
+Things like a person's location could be automatically collected in the background.
+Facebook could also see who you call and text, and tell what apps you use and how often.
+The company says Home will not actively track users' GPS locations.

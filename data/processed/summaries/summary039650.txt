@@ -1,0 +1,3 @@
+Moodagent lets a user pick music according to a mood.
+Fellody helps find other users who share music taste.
+Seatgeek shows when bands are coming to a user's area.

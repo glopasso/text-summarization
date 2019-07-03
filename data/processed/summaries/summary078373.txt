@@ -1,0 +1,3 @@
+The Orbit uses electrical brainwave signals to issue flight commands.
+San Francisco-based makers Puzzlebox say the toy enhances ability to concentrate.
+To encourage future adaptations, all software and schematics for the Orbit are open source.

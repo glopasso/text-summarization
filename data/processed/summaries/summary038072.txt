@@ -1,0 +1,3 @@
+Disease detective finds contact tracing system for Ebola outbreak "in shambles".
+Many contacts' addresses were missing or vague.
+Only 20% to 30% of contacts in database were being properly followed.

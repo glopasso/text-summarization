@@ -1,0 +1,4 @@
+"Foodini" is a machine that uses 3D printing technology to create meals.
+It uses normal ingredients that must be loaded into stainless steel capsules.
+It is controlled via a touchscreen device that connects to the Internet.
+It will be available in late 2015 with a price tag of around $1,000.

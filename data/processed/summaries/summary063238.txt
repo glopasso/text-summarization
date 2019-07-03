@@ -1,0 +1,3 @@
+Clay, grass and hard tennis court surfaces all produce different bounces.
+The speed and bounce of certain courts can adversely affect a player's game.
+Use the CNN interactive to see how the bounce differs on each surface.

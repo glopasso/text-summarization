@@ -1,0 +1,3 @@
+CNN ECOSPHERE will visualize Twitter discussions on key topics at the the RIO+20 Earth Summit.
+Firefox, Google Chrome and Safari (with WebGL enabled) are the recommended browsers for users.
+The website aggregates tweets tagged with #RIO20 and groups them into specific topics.

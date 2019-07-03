@@ -1,0 +1,3 @@
+Microsoft opens Socl -- its social-meets-search site.
+Launched for testing in May, the site remains an open beta test.
+Anyone with a Microsoft or Facebook account can access it.

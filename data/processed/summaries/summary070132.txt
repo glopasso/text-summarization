@@ -1,0 +1,4 @@
+A new app, Fixed, will contest parking tickets on a driver's behalf.
+Users submit a photo of their ticket and the app handles the legal paperwork.
+If Fixed gets someone out of a ticket, it charges them 25% of the ticket fine.
+Fixed is rolling out in San Francisco first but hopes to expand to more cities.

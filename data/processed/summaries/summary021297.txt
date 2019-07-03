@@ -1,0 +1,3 @@
+Software makers are looking to solve security issues in Android.
+AT&T Toggle creates two modes on a phone, for work and personal use.
+LG is developing its own solution to this problem.

@@ -1,0 +1,4 @@
+Outbox picks up mail the post office drops off at homes, scans it and e-mails it to recipient.
+Austin-based startup is rolling out in its second city, San Francisco, this week.
+The service costs $4.99 a month and will still deliver selected physical mail.
+The struggling U.S. Postal Service is not working with Outbox.

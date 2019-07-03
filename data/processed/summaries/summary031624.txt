@@ -1,0 +1,3 @@
+Germany's Dusseldorf airport has installed a robotic parking system called RAY.
+It can be controlled via an app and retrieves cars based on flight arrivals data.
+It can park 60% more cars than a human operator and costs $5.50 an hour.

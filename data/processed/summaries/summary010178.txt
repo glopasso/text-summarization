@@ -1,0 +1,3 @@
+IBM's Watson computer doesn't really "think" anything; it struggles with simple questions.
+Most of the clues on "Jeopardy!" mention proper nouns -- specific places, events, people.
+Watson's eventual commercial incarnation will be as a tool, not a human replacement.

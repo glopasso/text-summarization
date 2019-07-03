@@ -1,0 +1,4 @@
+Twitter has added the ability to tag people in photos.
+The feature is already very familiar to Facebook users, who have had it a long time.
+The default privacy setting lets anyone tag you in an image, but it can be turned off.
+Twitter also adds option to share up to four photos in a single tweet.

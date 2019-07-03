@@ -1,0 +1,4 @@
+Software marries photos with location data taken from a separate GPS receiver.
+Apple's iPhone can geotag its own photos.
+Geotagging lets you search for photos based on where you took them.
+Manufacturers say GPS support in cameras has become a matter of when, not if.

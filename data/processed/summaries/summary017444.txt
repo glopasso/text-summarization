@@ -1,0 +1,3 @@
+A Senate panel hears testimony about a new computer worm.
+It's called Stuxnet, and it targets computers that run critical infrastructure systems.
+The Department of Homeland Security's cybersecurity chief calls it a "game changer".

@@ -1,0 +1,3 @@
+GPS on airliners can't help locate planes, as they receive but don't send signals.
+Pilots know their position over an ocean but don't automatically share that data.
+Both the U.S. and Europe are implementing GPS-based air traffic control systems.

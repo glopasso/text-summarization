@@ -1,0 +1,3 @@
+Users of Apple's Ping social network can now post updates from within the app to Twitter.
+Messages from Ping can contain a small widget on Twitter containing song previews.
+This move could open up Ping to corporate workers who don't have access to iTunes.

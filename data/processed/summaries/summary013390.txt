@@ -1,0 +1,3 @@
+There are two areas of your hard drive that need to be checked for nasty files.
+To check if your Mac is infected, you can download the scripts hosted by CloudApp.
+If infected, you will need to go to the F-Secure's website and follow the instructions.

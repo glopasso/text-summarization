@@ -1,0 +1,4 @@
+Hundreds of thousands could lose Web access after a multi-million-dollar malware scam.
+FBI set up temporary servers so users wouldn't lose their Internet access.
+Those servers will be shut down on July 9.
+FBI has set up a site to see if you're infected and to help you fix your computer.

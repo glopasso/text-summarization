@@ -1,0 +1,3 @@
+IBM is teaming up with ASTRON to develop what is needed to handle data captured by SKA.
+The new technology will still rely on one of the oldest storage technologies: magnetic tape.
+The SKA won't be completed until 2024, but the process has the potential to change industries.

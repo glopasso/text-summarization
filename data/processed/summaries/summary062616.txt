@@ -1,0 +1,4 @@
+CNN iReport asks readers to say how their income makes them feel.
+The assignment follows a series by John Sutter on income inequality.
+Sutter reported on the "most unequal place in America".
+He says the war on poverty should morph into a war on inequality.

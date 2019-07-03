@@ -1,0 +1,3 @@
+Blog says feature will "guide you along the best route given the current traffic conditions".
+So far, the iPhone Google Maps app lacks this traffic-avoiding feature.
+TomTom iPhone app has offered traffic-dodging functionality for some time.

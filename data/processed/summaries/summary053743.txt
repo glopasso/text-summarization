@@ -1,0 +1,4 @@
+Researcher: iOS flaw raises questions about App Store's security.
+The security hole could let hackers steal photos, contacts and send texts, he says.
+Charlie Miller, the researcher, is one of the most prominent Apple hackers.
+Miller says he alerted Apple to the bug three weeks ago.

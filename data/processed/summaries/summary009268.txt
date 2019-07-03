@@ -1,0 +1,4 @@
+NEW: "Countermeasures" failed to deploy during test.
+Missile launched from Alaska; interceptor launched from California.
+Shield critics have long complained previous tests didn't involve decoys.
+President-elect Obama has said he'll support missile defense systems if they work.

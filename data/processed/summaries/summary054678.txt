@@ -1,0 +1,4 @@
+A large number of users are reporting attacks that hold their iPhones, iPads hostage.
+The hackers demand they pay a $100 ransom.
+Most of the victims are located in Australia.
+Attacks appear to work by compromising iCloud accounts.

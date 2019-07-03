@@ -1,0 +1,4 @@
+Drive-by download attacks can come from mallicious emails or web pages.
+An Android app can turn a smart phone into a hacking device within minutes.
+Personal information can then be a risk.
+Information security experts say many don't see smart phones as at risk.

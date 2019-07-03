@@ -1,0 +1,3 @@
+Wickr is a self-destructing messaging app created by computer-security experts.
+Snapchat has played down the security of its similar app in the past.
+Messages sent using Wickr are anonymous and encrypted.

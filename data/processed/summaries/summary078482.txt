@@ -1,0 +1,4 @@
+The Conficker C computer worm is expected to activate on April Fool's Day.
+The worm lets a master computer take over infected zombie PCs.
+It's unclear what the program's author plans to do with all the power.
+A group called the Conficker Cabal is trying to hunt down solutions.

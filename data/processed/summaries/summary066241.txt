@@ -1,0 +1,3 @@
+"Gangnam Style" has maxed out YouTube's original video-view counter.
+The clip, by South Korean pop star PSY, has surpassed 2,147,483,647 views.
+YouTube has been forced to upgrade its software in response.

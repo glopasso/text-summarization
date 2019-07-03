@@ -1,0 +1,4 @@
+Researchers find smart cards that access parking meters can be hacked.
+Joe Grand and Jake Appelbaum present findings at Black Hat conference.
+Before smart cards, city was losing more than $3 million annually to theft.
+Researchers programmed cards to never deduct from transaction count.

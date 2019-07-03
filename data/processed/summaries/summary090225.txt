@@ -1,0 +1,4 @@
+New Facebook users will have privacy settings default to "Friends".
+Previously, the default made users' posts public.
+Facebook is also rolling out a "privacy checkup" for existing users.
+U.S. senator: "Facebook's new privacy policy is a laudable change".

@@ -1,0 +1,4 @@
+Trapster is a cell-phone social network that allows motorists to alert others.
+Users send alerts via cell phone regarding locations of speed traps.
+In May, Trapster became integrated with Dash Navigation Inc..
+Police: Services like Trapster actually a positive; it gets people to slow down.

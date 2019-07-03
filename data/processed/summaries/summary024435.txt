@@ -1,0 +1,4 @@
+The odds are stacked against Google's new operating system as a rival to Windows.
+Chrome OS must face the same challenges as Linux: compatibility and unfamiliarity.
+A big stumbling block for Google will be whether its system supports iTunes.
+Google must work with PC makers to ensure netbooks are pre-loaded with Chrome.

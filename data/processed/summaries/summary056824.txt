@@ -1,0 +1,3 @@
+New Buzz.com service is a cross between Yelp and Yellowpages.com.
+Buzz.com integrates with Facebook Connect.
+AT&T has been developing Buzz.com for more than a year and a half.

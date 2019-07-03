@@ -1,0 +1,3 @@
+A test alert from the National Weather Service was accidentally shared publicly.
+It issued a tsunami warning for parts of the Northwest.
+The service quickly noted the post was a mistake.

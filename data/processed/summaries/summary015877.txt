@@ -1,0 +1,3 @@
+Following a CNN investigation the University of Kentucky released mortality data from pediatric heart surgery program.
+The program has a 5.8% overall mortality rate from 2008 to 2012, slightly higher than the national average (4%).
+In 2012 the year the program was suspended the mortality rate was 7.1%.

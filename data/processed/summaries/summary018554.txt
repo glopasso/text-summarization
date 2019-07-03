@@ -1,0 +1,4 @@
+The Alfa3 scanner is able to detect suspicious objects on walking people.
+There is no need to stop or even collaborate to be scanned.
+It can detect drugs, liquids, and other non-metallic objects.
+Privacy is respected as no anatomical details are shown.

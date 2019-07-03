@@ -1,0 +1,3 @@
+Flights already in the air were not affected by the breakdown.
+Southwest: The internal system used to dispatch flights was down.
+The late timing of the glitch mostly affected flights in the West Coast.

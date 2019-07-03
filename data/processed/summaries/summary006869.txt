@@ -1,0 +1,3 @@
+Google testing doctor video-chat feature.
+The feature would be available when people search medical terms.
+It's free during testing, but would presumably cost if made public.

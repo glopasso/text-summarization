@@ -1,0 +1,3 @@
+New changes to Gmail allow users more control over look of the service.
+Heavy Gmail users will be pleased to learn that there's a new search function.
+Conversations have been condensed and profile pictures added.

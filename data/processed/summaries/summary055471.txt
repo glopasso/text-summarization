@@ -1,0 +1,4 @@
+Facebook is moving to HTTPS connections by default.
+That may result in slowed speeds for some users.
+The switch is designed to offer additional security.
+People who are unhappy with the change can opt out.

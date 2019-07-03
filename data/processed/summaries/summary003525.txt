@@ -1,0 +1,3 @@
+Anthropologist reconstructs Neanderthal vocal tracts to simulate their voice.
+Result sounds like a part croaking frog or a human burping.
+Plan is to eventually simulate an entire Neanderthal sentence.

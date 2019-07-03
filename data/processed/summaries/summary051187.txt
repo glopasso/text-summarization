@@ -1,0 +1,3 @@
+Pilots will now present airline ID and another form of identification.
+They will still be subject to random screening and other layers of security.
+Pilots unions welcome the announcement.

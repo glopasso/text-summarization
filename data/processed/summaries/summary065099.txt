@@ -1,0 +1,3 @@
+Rosetta is to begin listening for signs that the lander has survived the cold and dark.
+From lander pictures, mission controllers think Philae is tucked up underneath a cliff face.
+Philae has already detected organic chemicals on the comet surface.

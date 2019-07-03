@@ -1,0 +1,4 @@
+University students at ETH Zurich have designed and built a robotic boat.
+The boat needs no sailors and uses sensors to sail in changing conditions.
+It is hoped the yacht will sail autonomously across the Atlantic Ocean.
+If it succeeds it would be the first Atlantic crossing by an unmanned boat.

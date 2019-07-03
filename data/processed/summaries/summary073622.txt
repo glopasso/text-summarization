@@ -1,0 +1,3 @@
+Space Weather Prediction Center watches skies for solar activity.
+Coronal mass ejections can disrupt satellites and power grids.
+The sun is at its "solar maximum" -- but its activity is described as "modest".

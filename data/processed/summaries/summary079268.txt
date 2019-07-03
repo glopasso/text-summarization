@@ -1,0 +1,4 @@
+Carlo Ratti heads MIT's Senseable City Lab.
+He used sensors to track flow of trash discarded by volunteers in Seattle.
+He found that some items travel thousands of miles.
+Ratti's projects use computers to create new urban structures.

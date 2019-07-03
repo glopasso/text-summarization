@@ -1,0 +1,3 @@
+Twitter has been working to improve security for the site.
+HTTPS allows encrypted communication between networks and users.
+Users can activate HTTPS permanently by going to their settings.

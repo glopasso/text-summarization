@@ -1,0 +1,3 @@
+Splash Networks wants to make selecting schools to send an application to easier.
+AdmissionSplash shows prospective students how likely it is that they will be admitted.
+App runs customized equations for about 1,500 schools.

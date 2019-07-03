@@ -1,0 +1,4 @@
+Twitter announces it will not pursue litigation over patents without consent of employees who created them.
+If Twitter is sued over a patent, the company can defend using the patents awarded to employees.
+The agreement has been greeted by developers as an important step away from "patent trolling".
+Twitter has posted a draft of the agreement to GitHub to further spread the word.

@@ -1,0 +1,4 @@
+Facebook rolls out App Center.
+Center will rank apps on user feedback and other quality measures.
+It will also introduce paid apps for Facebook.
+Center will work on Android and Apple devices as well as the Web.

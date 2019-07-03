@@ -1,0 +1,3 @@
+Despite widespread excitement, it turns out that Skyfire isn't very useful.
+The app's primary function is to transcode that video so it's viewable on Apple products.
+Some Flash-dependent sites that work well on Skyfire, are "Daily Show" and "Colbert Report".

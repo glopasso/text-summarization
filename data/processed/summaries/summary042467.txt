@@ -1,0 +1,3 @@
+Lytro cameras capture photos that can be refocused after they're taken.
+New photo filters include a funhouse mirror effect and retro coloring.
+Lytro images can finally be focused entirely; perspective-shifting effect has been added.

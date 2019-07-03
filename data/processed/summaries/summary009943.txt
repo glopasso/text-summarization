@@ -1,0 +1,3 @@
+Apple is preparing to launch iCloud, an Internet storage service.
+Amazon already has Cloud Drive, and Google has a variety of services.
+iCloud is tightly integrated into Apple software but seemingly less so in other platforms.

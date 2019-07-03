@@ -1,0 +1,3 @@
+DEF CON is the world's largest gathering of computer hackers.
+This year, the conference held classes for kids age 8 to 16.
+DEF CON Kids aims to teach kids to be more secure online.

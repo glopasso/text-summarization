@@ -1,0 +1,4 @@
+A grand jury report outlines problems in an August 14, 2012, primary election in Florida.
+Someone created a computer program that made 2,500 bogus requests for absentee ballots.
+It's the first documented attack on a U.S. election, said computer scientist David Jefferson.
+Jefferson: "It's clear that the attackers knew what they were doing".

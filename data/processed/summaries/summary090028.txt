@@ -1,0 +1,3 @@
+Software developed enabling Apple's iPhone to be used on any phone network.
+Device can currently only be used on AT&T network in the U.S..
+Anonymous developers plan to start selling program soon.

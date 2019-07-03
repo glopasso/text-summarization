@@ -1,0 +1,4 @@
+Twitter reports recent attack that may have compromised 250,000 user accounts.
+The attack is the latest against large sites, including the New York Times and Wall Street Journal.
+Affected users will receive an e-mail instructing them to reset their passwords.
+Twitter recommends all users have strong passwords and disable Java in their browsers.

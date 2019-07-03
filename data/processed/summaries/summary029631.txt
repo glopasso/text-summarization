@@ -1,0 +1,4 @@
+NEW: Facebook appears to have pulled the 'Find Friends Nearby' feature.
+The feature uses phones' GPS to show which of your friends are near your location.
+Blog ReadWriteWeb already has dubbed the feature a "stalking app".
+It appears Facebook users must opt in to the feature, which may allay privacy concerns.

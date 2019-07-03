@@ -1,0 +1,3 @@
+Google has assembled a team of experts trying to craft a quantum computer.
+Financial services, machine learning and other industries could benefit.
+Quantum computing especially useful for complex "optimization" problems.

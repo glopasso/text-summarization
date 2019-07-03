@@ -1,0 +1,3 @@
+Facebook admitted that its older systems f"did not always delete images".
+The company was "working with our content delivery network (CDN) partner".
+Frederic Wolens explained that photos remaining online are stuck in a legacy system.

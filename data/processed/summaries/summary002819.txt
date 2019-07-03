@@ -1,0 +1,4 @@
+Three 20-year-olds create alternate site that lets people search for health care.
+Programmers built Health Sherpa in three days for "hundreds of dollars".
+Site does not let users actually sign up for coverage.
+It was built in response to problems that have plagued Healthcare.gov site.

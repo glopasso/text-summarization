@@ -1,0 +1,3 @@
+Apple releases the iOS 7.1 update for the iPhone, iPad and iPod Touch.
+The update includes the new CarPlay feature and a fix for the iPhone 5S fingerprint sensor.
+There are other improvements and bug fixes for Siri, iTunes Radio, the calendar and accessibility options.

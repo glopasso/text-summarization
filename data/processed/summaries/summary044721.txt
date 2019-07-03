@@ -1,0 +1,4 @@
+Hyperlapse is a new iPhone app from Instagram for creating time-lapse videos.
+It uses the iPhone's gyroscope to stabilize videos.
+Hyperlapse videos can be shot while moving.
+You do not need an Instagram or Facebook account to use the app.

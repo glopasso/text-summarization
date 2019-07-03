@@ -1,0 +1,4 @@
+The Morsi Meter is modeled after the Obameter from PolitiFact.com.
+It currently lists 64 promises.
+The group behind it wants "a new era of accountability," a member says.
+The Obameter says President Obama has so far kept about a third of his promises.

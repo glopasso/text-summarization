@@ -1,0 +1,4 @@
+Twitter, Facebook, LiveJournal hit Thursday morning with denial-of-service attacks.
+The attack shut Twitter down for at least two hours.
+It's unclear who caused the attacks.
+Twitter co-founder: attack is not related to a recent breach in Twitter security.

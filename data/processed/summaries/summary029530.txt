@@ -1,0 +1,3 @@
+New Facebook feature helps you tag music, TV shows or movies in updates.
+Feature employs phone's microphone to identify song or TV show as it's playing.
+Feature will be available on Android and iOS devices "in the coming weeks".

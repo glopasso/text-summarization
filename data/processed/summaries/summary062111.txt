@@ -1,0 +1,4 @@
+Revolights are a set of wheel-mounted LEDs which increase cycle visibility.
+The project raised five times the goal funding on Kickstarter in 2011.
+Now the team is looking to Kickstarter again to develop wheels with in-built lights.
+The lights are timed to blink depending on the speed the bike goes, preventing them from blinding riders.

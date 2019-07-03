@@ -1,0 +1,4 @@
+The Move system grew out of the EyeToy camera for PlayStation 2.
+Researchers found the EyeToy tracked sphere shapes the best.
+Using two Move controllers instead of one allows for more detail.
+Sony's Move controller will be officially released for sale on September 19.

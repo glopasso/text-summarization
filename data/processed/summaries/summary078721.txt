@@ -1,0 +1,3 @@
+After hitting Like, a full story, headline, blurb and thumbnail will be posted to your profile.
+Facebook has released an update that changes the Like button's functionality.
+Facebook has slowly stopped developing the Share Button.

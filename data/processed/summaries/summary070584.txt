@@ -1,0 +1,4 @@
+Game is a last-man-standing style fight game.
+User can choose favorite Nintendo, Sonic, Konami characters.
+Internet game play much better than previous Wii games.
+Users are able to set weapons, powers and controls.

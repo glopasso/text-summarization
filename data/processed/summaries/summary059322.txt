@@ -1,0 +1,4 @@
+The Washington Metro has used an automated train control system since 1976.
+Philadelphia, San Francisco, Boston and Atlanta also use a similar system.
+American Public Transportation Association: "What happened in Washington is rare".
+Investigators found a problem in one of the track circuits that relay data to trains.

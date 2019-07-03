@@ -1,0 +1,4 @@
+New device allows users to check the nutritional value of food.
+SCiO, which was funded by Kickstarter, can detect if a drink has been spiked.
+It can also be used to analyze medicine contents or the health of houseplants.
+In two or three years people may be able to analyze food content via their smart phones.

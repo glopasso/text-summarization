@@ -1,0 +1,4 @@
+Black box data from Flight 370 could be analyzed at a laboratory in Australia.
+Even if the flight data recorder is damaged, information is retrievable.
+About 2,000 parameters are decoded, like altitude, engine performance and cabin pressure.
+The data is used to create a visual representation, helping the public understand an accident.

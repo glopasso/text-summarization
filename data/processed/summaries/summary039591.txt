@@ -1,0 +1,3 @@
+NEW: Companies on different page as to whether outage was human error.
+Malfunctioning device meant to protect equipment caused lights to go out.
+Outage stalled the Super Bowl in New Orleans for 35 minutes.

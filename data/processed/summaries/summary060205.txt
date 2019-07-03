@@ -1,0 +1,2 @@
+CNN receives data from The Associated Press, Edison Media Research.
+Process of projecting races begins by creating a sample of precincts.

@@ -1,0 +1,3 @@
+Twitter is testing a major redesign to users' profile pages.
+New look slides the profile picture and bio to the left and enlarges the header photo.
+It's common for Twitter to quietly test new features and design updates.

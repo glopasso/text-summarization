@@ -1,0 +1,3 @@
+Both are American Airlines flights.
+AAL 1359 makes an emergency landing after an unnamed technical issue.
+AAL 997 has cabin pressure issues, turns back but doesn't make an emergency landing.

@@ -1,0 +1,4 @@
+Facebook adds "Ask" feature to let users inquire about friends' relationships.
+"Ask" button appears next to info that's not filled out.
+Only friends can inquire, and receiver may respond privately.
+Users can also "Ask" about a friend's job or hometown.

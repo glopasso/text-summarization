@@ -1,0 +1,4 @@
+NEW: Delta cancelations only related to MD-88, not MD-90s.
+NEW: 275 Delta flights were canceled Thursday for safety inspections.
+American Airlines canceled 318 flights Wednesday to inspect MD-80 aircraft.
+American cancels 132 of its estimated 2,300 flights scheduled for Thursday.

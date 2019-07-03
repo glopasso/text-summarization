@@ -1,0 +1,3 @@
+Newer browsers support downloadable fonts so sites can use more.
+Google worked with a number of talented font designers to produce a varied collection.
+Google announces an open-source project called WebFont Loader.

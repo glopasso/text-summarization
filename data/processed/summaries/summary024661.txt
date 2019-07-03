@@ -1,0 +1,4 @@
+Expert: Wireless carriers fix a bug that could have allowed criminals to hack into cell phones.
+A German cryptographer who hacked into SIM cards says he discovered the bug.
+SIM cards can identify a phone's owner and store some sensitive personal data.
+The "white hat" hacker presented his findings at a computer-security conference.

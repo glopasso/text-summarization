@@ -1,0 +1,3 @@
+San Francisco-based inventor devises cheap haptic device to help visually impaired.
+"Tacit" uses sensors which measure distances from one inch to 10 feet.
+Rubber pads apply more pressure as a user gets closer to an object.

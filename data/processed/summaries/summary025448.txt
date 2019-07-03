@@ -1,0 +1,3 @@
+The CNN economic Mood Map is part of CNN's World Economic Forum coverage.
+It enables users to tell CNN what their economic mood is across four different topics.
+Users can see how their mood compares to others in their country and around the world.

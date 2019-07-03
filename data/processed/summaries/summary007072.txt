@@ -1,0 +1,3 @@
+Juvenile Diabetes Research Foundation funding 13 artificial pancreas trials.
+In the future, the device will be the size of a cell phone, attached to a belt.
+Algorithms determine how much insulin and Glucagon the patient needs.

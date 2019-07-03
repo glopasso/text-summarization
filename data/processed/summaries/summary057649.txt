@@ -1,0 +1,4 @@
+Google lab works on apps that help users discover interesting things.
+Niantic Labs has created travel adviser "Field Trip" and mobile game "Ingress".
+"Field Trip" uses GPS to point out interesting things you are near.
+Ingress uses public landmarks in a worldwide game between two sides.

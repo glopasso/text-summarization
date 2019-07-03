@@ -1,0 +1,4 @@
+CNN goes behind-the-scenes at Tele Atlas, which does digital mapping.
+The company crisscrosses the globe in vans with cameras, lasers and GPS.
+Tele Atlas creates "base maps" for Google, MapQuest and others.
+Next step will be to combine lasers and camera images to make detailed 3-D maps.

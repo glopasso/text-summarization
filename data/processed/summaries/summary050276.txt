@@ -1,0 +1,4 @@
+Rocket to carry one big satellite, 28 little ones.
+CubeSats are small, 3-pound nanosatellites.
+One CubeSat was made by high school students.
+The main payload satellite will conduct experiments on its expected 13-month mission.

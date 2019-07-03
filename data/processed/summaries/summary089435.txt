@@ -1,0 +1,4 @@
+Group A: Switzerland, Czech Republic, Portugal, Turkey.
+Group B: Austria, Croatia, Germany, Poland.
+Group C: Netherlands, Italy, Romania, France.
+Group D: Greece, Sweden, Spain, Russia.

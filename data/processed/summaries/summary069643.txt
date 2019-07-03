@@ -1,0 +1,3 @@
+Verizon's LTE network experiences major issues in the past 24 hours.
+While the 4G portion has been down, 3G is working.
+Customers were unable to activate any 4G LTE devices.

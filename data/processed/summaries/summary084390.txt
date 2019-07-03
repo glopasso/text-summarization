@@ -1,0 +1,3 @@
+A DDoS attack Wednesday evening crippled some of larger e-commerce sites.
+Neustar, a DNS provider in California, was targeted, hurting Amazon, Wal-Mart and more.
+The attack, two days before Christmas, foiled plans of some last-minute shoppers.

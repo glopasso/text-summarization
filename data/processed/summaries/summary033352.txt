@@ -1,0 +1,3 @@
+Two Colorado Springs coders built a Web app in response to the Waldo Canyon wildfire.
+The app collects and streams tweets containing the #WaldoCanyonFire hashtag.
+Coders have made their code base available to help others track natural disasters.

@@ -1,0 +1,3 @@
+Rapiro can do numerous human-like tasks, including making coffee.
+The robot's control system is the size of a credit card.
+It has 12 'servo motors,' which increase its capacity for movement.

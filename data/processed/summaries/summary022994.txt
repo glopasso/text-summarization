@@ -1,0 +1,4 @@
+A New York startup developed the technology behind CNN's "Magic Wall".
+CNN's John King uses the electronic wall map to explain election results.
+The multi-touch-screen map can be manipulated by multiple fingers or users at once.
+Inventor Jeff Han's inspiration for the device came from drinking a glass of water.

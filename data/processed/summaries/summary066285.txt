@@ -1,0 +1,4 @@
+27: Minimum number of weeks a person must be without job to be "long-term unemployed".
+42.8: Percentage of jobless Americans considered long-term unemployed.
+40: Percentage of long-term unemployed who blame President Barack Obama.
+69: Percentage of long-term unemployed who say job loss has not changed political views.

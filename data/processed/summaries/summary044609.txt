@@ -1,0 +1,4 @@
+Software with increasingly complex algorithms are now writing news stories and financial reports.
+The L.A. Times uses Quakebot to write about tremors, using data from the US Geological Survey..
+Chicago-based company Narrative Science markets its Quill software to media and financial houses.
+The company's chief scientists believes a computer program could win a Pulitzer Prize within the next 5 years.

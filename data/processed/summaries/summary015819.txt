@@ -1,0 +1,4 @@
+Prototype ink pen vibrates when users make mistakes writing letters and words.
+Lernstift (German for "learning pen") created by Munich-based start-up.
+Pen has computer inside casing with motion sensor which spots spelling mistakes.
+Kickstarter campaign launched to help development and production.

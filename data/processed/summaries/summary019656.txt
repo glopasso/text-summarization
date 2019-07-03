@@ -1,0 +1,3 @@
+Vehicles being developed that can automatically steer, brake, accelerate, and change lanes.
+Google, Daimler and Nissan are a few of the firms testing this technology.
+Driverless trucks could aid businesses by running around the clock.

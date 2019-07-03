@@ -1,0 +1,4 @@
+Facebook is one of the world's largest photo-sharing sites.
+Upgrades include hi-res photos, photo-download links, bulk tagging options.
+User can now upload and download hi-res photos up to 2048 pixels wide or high.
+Another change is Facebook's lightbox UI, which puts the focus on images.

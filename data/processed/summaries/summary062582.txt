@@ -1,0 +1,3 @@
+Scientist Stephen Wolfram seeking to make world's knowledge computable.
+He developed a Web site that provides instant computation relying on massive databases.
+Wolfram is seeking to answer fundamental questions about the universe through computing.

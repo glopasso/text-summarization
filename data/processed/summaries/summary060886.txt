@@ -1,0 +1,3 @@
+Twitter is rolling out a "mute" feature that will let you silence certain users.
+The muted user won't know you've muzzled them, and you can unmute them anytime.
+New function will roll out to all Twitter users "in the coming weeks".

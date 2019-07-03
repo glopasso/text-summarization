@@ -1,0 +1,3 @@
+Dropcam is a simple surveillance camera that streams live videos.
+The company released a new camera that has a wider field of view and a better lens.
+The product is a hit with pet owners, who can use the voice feature to scold from afar.

@@ -1,0 +1,4 @@
+Barcelona company claims its software can tell if a song will be a pop hit.
+Hit Song Science analyzes song's melody, harmony, tempo, beat.
+Software cannot write hits, just predict whether they will find success.
+Company says A&R departments are using it to tweak tracks for the top.

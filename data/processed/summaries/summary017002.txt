@@ -1,0 +1,3 @@
+The list measures how likely airports are to spread diseases in an outbreak.
+Researchers looked at the airports' locations, connections and waiting times.
+Honolulu ranked third on the list, above busier airports like Atlanta.

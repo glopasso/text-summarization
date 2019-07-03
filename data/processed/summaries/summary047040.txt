@@ -1,0 +1,3 @@
+A new iPhone app helps you avoid running into people you'd rather not see.
+It pulls location information from your Foursquare and Instagram networks.
+Users can set up notifications for certain people they want to avoid.

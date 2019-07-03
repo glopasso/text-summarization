@@ -1,0 +1,4 @@
+NextGen U.S. air traffic overhaul aims to improve safety with new technology.
+FAA is switching from radar tracking to more accurate GPS tracking.
+Steps being taken to protect GPS-based tracking from "spoofing" hackers.
+DOT warns about security gaps unless authorities coordinate on tracking coverage.

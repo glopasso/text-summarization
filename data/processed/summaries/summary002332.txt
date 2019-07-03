@@ -1,0 +1,4 @@
+Researchers have developed a robot that could help the US Navy battle shipboard fires.
+The robot has been designed in a humanoid shape to negotiate complex environments.
+Not only would the robot, called SAFFiR, throw fire retarding grenades but glean information.
+Researchers hope the robot will one day help with other difficult and onerous onboard tasks.

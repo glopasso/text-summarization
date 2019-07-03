@@ -1,0 +1,3 @@
+The EU Court of Justice ruling says Google must edit or remove search results.
+In certain situations, people may request the search engine to remove unwanted results.
+The ruling says Google should act as a "controller" and is responsible for data it links to.

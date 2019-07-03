@@ -1,0 +1,4 @@
+Engineers at MIT have created a new generation of robotic fish.
+'Robofish' could be used to map the ocean floor, inspect submerged boats or pipes.
+MIT researchers built their first robotic fish, "Robotuna," in 1994.
+New robofish are modeled after bass and trout and cost only a few hundred dollars.

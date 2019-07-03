@@ -1,0 +1,3 @@
+Group identified as Anonymous putting together a social-music platform.
+Anontune is designed to pull songs from third-party sources for users.
+Using the service will require loading code written by 'Anons' on your computer.

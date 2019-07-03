@@ -1,0 +1,3 @@
+"Moving Platforms" is an integrated tram-to-train concept.
+Passengers would cross between tram and train without either vehicle stopping.
+It's the work of British designer Paul Priestman.

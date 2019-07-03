@@ -1,0 +1,3 @@
+Acorns is an app that simplifies the process of investing.
+Every time a user spends on their debit or credit card, it rounds up the figure and invests the difference.
+Cost is $1 a month, plus anywhere from 0.25% to 0.5% of user's earnings.

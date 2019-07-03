@@ -1,0 +1,4 @@
+A new submersible robot -- sort of an underwater drone -- could open up undersea exploration.
+The OpenROV can be controlled remotely with a laptop.
+It's equipped with a video camera to stream back images.
+The device was designed in Silicon Valley and sells for $849.

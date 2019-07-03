@@ -1,0 +1,4 @@
+The Human Printer recreates digital prints by hand using fine tip markers.
+Stinsensqueeze, the design duo behind the project, mimics CMYK color processes.
+The project is meant to highlight the relationship between humans and technology.
+Making a letter size image this way could take up to 10 hours.

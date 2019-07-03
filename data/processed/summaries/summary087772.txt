@@ -1,0 +1,3 @@
+Google hopes to revolutionize Web address shortening arena with Goo.gl.
+Website will now abbreviate your links, keeping them in storage to view later.
+Google says it is also using special provisions to prevent blind links leading to malware.

@@ -1,0 +1,4 @@
+Engineers at Georgia Tech are developing a health care robot for home use.
+The robot can open doors and fetch items such as a bottle of pills or a cell phone.
+Robots could assist patients with ALS, also known as Lou Gehrig's disease.
+Such health care robots may be commercially available in less than 10 years.

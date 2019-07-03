@@ -1,0 +1,4 @@
+Obama administration is proposing a standardized login system for the Web.
+People would choose Facebook, Google or another site as their provider.
+The identity-verification system would then work on any website.
+Because the government doesn't plan to write a law, this is a policy experiment.

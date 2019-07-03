@@ -1,0 +1,3 @@
+Next generation will sport new version of Apple's A4 chip with dual-core processing unit.
+Chip will enable higher resolutions and support for HD (1080p) video playback.
+iPad 2 chip will probably be paired up with a dual-core ARM Cortex-A9 CPU.

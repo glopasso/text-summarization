@@ -1,0 +1,3 @@
+Gmail adds a feature that can translate emails between languages.
+The update is rolling out in coming days.
+Users can turn off the feature if they speak other languages.

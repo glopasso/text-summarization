@@ -1,0 +1,3 @@
+Silent Circle encryption software will be available for phones and computers.
+Secure calls for military personnel serving overseas was one driver for the product.
+It's the work of Phil Zimmermann, who came up with PGP (Pretty Good Privacy).

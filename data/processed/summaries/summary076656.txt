@@ -1,0 +1,3 @@
+An invitation from a current user used to be required before you could sign up.
+Voice provides a single number that directs calls to your cell, home and work phone.
+It can transcribe voicemail and has free conference calling, outbound calls and screening.

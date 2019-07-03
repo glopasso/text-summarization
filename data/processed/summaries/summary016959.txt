@@ -1,0 +1,3 @@
+LeapFrog is making a fitness tracker for kids.
+The LeapBand rewards children for physical activity.
+It will sell in August for $40.

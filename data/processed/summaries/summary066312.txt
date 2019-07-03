@@ -1,0 +1,3 @@
+On the iPhone 5S, Touch ID uses your fingerprint for security.
+Fingerprint data is encrypted, stored on phone, not Apple servers.
+Some experts say Apple's tech is nice, but won't be game-changer.

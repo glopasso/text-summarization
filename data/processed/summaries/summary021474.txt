@@ -1,0 +1,4 @@
+Computer programs can discern personal details based on Facebook use.
+Cambridge university academics assessed data from 58,000 Facebook users.
+The techniques could easily be replicated by companies.
+Some unexpected correlations: people who liked 'curly fries' had higher IQs.

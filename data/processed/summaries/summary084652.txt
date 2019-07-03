@@ -1,0 +1,3 @@
+Google will make future versions of Android for Intel chips.
+Android currently works with processors designed by ARM.
+Intel has struggled to break into the smartphone market.

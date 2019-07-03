@@ -1,0 +1,4 @@
+At Penn lab, researchers have created small aerial robots.
+The quadrotor takes commands but is programmed to decide how to do them.
+A YouTube video of quadrotors playing the James Bond theme reached millions.
+They were used in post-earthquake Japan to investigate damaged buildings.

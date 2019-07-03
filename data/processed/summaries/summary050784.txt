@@ -1,0 +1,4 @@
+Early Web adopters recall the slower, simpler online life of the '90s.
+Tim Berners-Lee created the World Wide Web in March 1989.
+Slow connections limited what websites could deliver.
+But in the '90s, just being able to access the Web was exciting for many.

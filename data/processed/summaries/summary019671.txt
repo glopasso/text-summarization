@@ -1,0 +1,3 @@
+Verizon performed at 4G speeds in 66% of tests -- better than AT&T, Sprint, T-Mobile.
+4G speed means a download speed of at least three megabits per second.
+RootMetrics compared 4G networks from the four major U.S. carriers in 27 cities.

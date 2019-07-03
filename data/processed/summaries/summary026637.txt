@@ -1,0 +1,4 @@
+Web designers are starting to take accessibility very seriously.
+About 60 million people in U.S. can't use the Internet in the normal fashion.
+Photos or images can create problems if publisher doesn't add alt text.
+Sophisticated speech recognition technologies are finally coming to fruition.

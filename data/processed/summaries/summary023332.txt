@@ -1,0 +1,3 @@
+Users want to know why Google Drive seemed to be claiming ownership of customers' files.
+As it turns out, the company claims no ownership -- it says so right in the terms of service.
+But a public file on any of Google's services could, in theory, end up in promotional materials.

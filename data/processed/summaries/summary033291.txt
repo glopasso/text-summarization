@@ -1,0 +1,3 @@
+German inventor Harald Haas has developed patented technology which uses light beams to transmit information.
+Adding a microchip to a normal LED light bulb makes it blink at phenomenal speed sending binary code data.
+Haas hopes his "Li-Fi" networks will assist increasingly crowded Wi-Fi radio networks.

@@ -1,0 +1,4 @@
+Small robots can behave like termites to build structures.
+The idea might be applied to send robots to space.
+These robots have wheel-legs called "whegs".
+Project was launched at Harvard University engineering school.

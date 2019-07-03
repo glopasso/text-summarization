@@ -1,0 +1,3 @@
+Zite can learn your reading habits and personalize content based on your interests.
+"It's a combination of semantic- and statistically based machine learning," says CEO Ali Davar.
+Flipboard and Pulse require users to manually provide sources.

@@ -1,0 +1,3 @@
+Apple: Fix coming for 'white/black screen of death'.
+But has been rebooting iPhones using Apple's iOS 7.
+Some say problem happens when phone's battery is low.

@@ -1,0 +1,3 @@
+Facebook is now letting all developers make apps that can automatically publish to profiles.
+The system will try to guess the importance of an app based on past activity.
+Facebook Music was a precursor to these new features.

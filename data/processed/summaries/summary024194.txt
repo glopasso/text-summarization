@@ -1,0 +1,4 @@
+Google Wallet supports tap-to-pay phone payments using near field communication.
+U.S. retailers are slow to adapt to NFC tools because of installation expenses and efforts.
+Google Wallet will be offered as an option for Fandango.com and MovieTickets.com.
+45 carriers around the world have announced their support of standards for NFC payments.

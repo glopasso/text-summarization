@@ -1,0 +1,3 @@
+Blekko's search engine is a $24 million venture-backed project.
+Search engine is designed to eliminate spam search results.
+Most significant upgrade to Blekko's search engine is the addition of slashtags.

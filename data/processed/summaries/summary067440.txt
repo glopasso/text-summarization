@@ -1,0 +1,4 @@
+Language app Duolingo creating system for users to teach languages.
+The "incubator" lets people fluent in two languages to team up on a course.
+A goal is to highlight obscure languages not taught as often as major ones.
+The tool is free to use, and contributors will not be paid.

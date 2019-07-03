@@ -1,0 +1,4 @@
+Facebook app "What Would I Say?" randomly generates status updates that are like bizarre poetry.
+The app was the result of a weekend hackathon at Princeton.
+Users can post their random results straight to Facebook.
+Grad students who created it say they didn't expect it to spread so widely.

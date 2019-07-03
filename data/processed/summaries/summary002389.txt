@@ -1,0 +1,3 @@
+Twitter will now show conversations in chronological order.
+Whole conversations can be shared with friends via e-mail or as individual tweets from apps.
+Update makes it easier for users to catch up on a whole conversation at a glance.

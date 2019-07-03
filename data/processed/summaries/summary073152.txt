@@ -1,0 +1,4 @@
+A newly discovered Angelfire website from 1999 appears to be by Mark Zuckerberg.
+Site was created by 15-year-old "Mark" in suburban New York.
+It includes a crude "social graph" and AOL fader tool he created.
+Source code on the site's main page lists "Mark Zuckerberg" as its creator.

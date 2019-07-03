@@ -1,0 +1,4 @@
+A smartphone app called FireChat has emerged as the messaging tool of choice for Hong Kong protesters.
+The 'off-the-grid' app works by creating its own network outside the internet.
+The company registered 500,000 downloads in Hong Kong alone within two weeks.
+Other emerging services are exploiting the same 'mesh-network' technology.

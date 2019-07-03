@@ -1,0 +1,3 @@
+Idea behind real-time Web is to create technology that doesn't require user to seek out info.
+Developers say they need to figure out how to protect privacy first.
+Real-time Web could help local retailers catch up with major online stores, developer says.

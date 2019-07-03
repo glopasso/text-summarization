@@ -1,0 +1,3 @@
+NYPD experiments with two pair of Google Glass specs.
+The head-mounted computers feed information directly to the eye-line of  the wearer.
+A North Carolina firefighter has developed a Google Glass app.

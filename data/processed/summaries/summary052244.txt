@@ -1,0 +1,3 @@
+Like button allows Facebook to track people as they switch websites.
+Facebook's social plugins collect the address of the Web page being visited.
+More than 50,000 sites across the Web have implemented social plugins.

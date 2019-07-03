@@ -1,0 +1,3 @@
+Skype Translator offers near-real time language translation during video calls.
+A beta version will be launched as a Windows 8 app later this year.
+The new technology promises improved speech recognition compared to previous methods.

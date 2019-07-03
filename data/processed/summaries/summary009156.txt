@@ -1,0 +1,4 @@
+Real-world robotics have been inspired by pop-culture creations.
+Leonardo da Vinci was working on an "automaton" as early as 1495.
+The term "robot" comes from a 1921 Czech play.
+Six years after that, "Metropolis" brought us the first movie robot.

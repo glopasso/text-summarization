@@ -1,0 +1,1 @@
+Students will predict electoral vote totals for each U.S. presidential candidate.

@@ -1,0 +1,3 @@
+Grillo is a device that aims to bring a low-cost earthquake warning system to the masses in Mexico.
+A number of major fault lines are situated along Mexico's Pacific Coast.
+Some say a widespread program of public education is required so people know what to do when seismic activity occurs.

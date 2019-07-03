@@ -1,0 +1,3 @@
+AutoMee is a tiny Roomba-like cleaning device for smartphones and tablets.
+It automatically buffs your touchscreen clean using sensors to avoid falling off edges.
+The device will be available in Japan at the end of March.

@@ -1,0 +1,4 @@
+M2M technology allows machines to exchange information with one another.
+100 million devices are already connected.
+Industry analysts predict there will be two billion M2M-connected devices by 2021.
+Long development periods and adoption of 4G connectivity has held technology back, says John Horn.

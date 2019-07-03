@@ -1,0 +1,4 @@
+The memristor is a new type of electrical component that could revolutionize electronics.
+It was first conceptualized in the 1970s, long before one could even be built.
+Researchers at ETH work with IBM in memristors for future computing devices.
+Memristor-based chips wouldn't require silicon, so we could see computers in windows, textiles or even coffee cups.

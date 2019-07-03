@@ -1,0 +1,4 @@
+2010 census determines number of congressional districts per state.
+If the number of districts a state has changes, lines must be redrawn.
+Lawmakers have been accused of drawing districts in order to create political gains.
+Top concern should be counting everyone, former Census Bureau director says.

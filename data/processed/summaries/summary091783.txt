@@ -1,0 +1,4 @@
+Dictionaries now include a definition of literally that isn't literal.
+Literally can be used to express a strong feeling, dictionaries say.
+Merriam-Webster, Cambridge and Google agree.
+Dictionary.com notes the exception.

@@ -1,0 +1,4 @@
+AdTrap is hardware that blocks Internet ads before they reach your devices.
+Most ad blockers are software that has to be installed on each device.
+Excitement about the invention led to $200,000 raised on a Kickstarter campaign.
+The company has retained an attorney in case advertisers sue.

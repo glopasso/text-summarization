@@ -1,0 +1,3 @@
+Facebook has begun testing new security features.
+One allows users to specify people who can help with account emergencies.
+Users must collect three to five keys from friends in order to log in.

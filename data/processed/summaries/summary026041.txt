@@ -1,0 +1,4 @@
+Engineers from Yelp build the Burrito Bomber.
+The unmanned drone can deliver food using GPS data.
+Project is the result of a Yelp hackathon.
+Currently, aviation regulations prohibit commercial use of drones.

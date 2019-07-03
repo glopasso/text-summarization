@@ -1,0 +1,3 @@
+Facebook is testing a new design for Timeline pages that places all posts in a single column.
+The current format, a two-column layout, includes posts on both sides.
+Some users have complained that the current Timeline is confusing.

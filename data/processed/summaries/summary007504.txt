@@ -1,0 +1,4 @@
+UDOO seeks to combine the power of four Raspberry Pis and Arduino in a mini PC.
+It is intended to be a powerful prototyping board for software development and design.
+UDOO will be able to run with either Android or Linux.
+The project has received $95,000 in six days on Kickstarter.

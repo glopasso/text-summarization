@@ -1,0 +1,4 @@
+Company maps of wireless networks can be inaccurate or lacking detail.
+Application designers have turned to crowdsourced data.
+Open Signal maps has an app for Android.
+RootMetrics has an app for iPhone; Android and Blackberry versions coming.

@@ -1,0 +1,3 @@
+Facebook Breakup Notifier lets users pick friends and monitor their relationship statuses.
+If a relationship status changes, the app notifies the user.
+Facebook just added civil unions and domestic partnerships to its relationship list.

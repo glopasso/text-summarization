@@ -1,0 +1,4 @@
+Facebook Graph Search to have extra protections for minors.
+Info on users under 18 will be hidden from the search.
+That info includes birthday, school, current city and hometown.
+Graph Search lets users search for others by common interests.

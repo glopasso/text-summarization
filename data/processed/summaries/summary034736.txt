@@ -1,0 +1,3 @@
+Android has had pretty well integrated speech-to-text functionality.
+It took software company Dexetra just eight hours to create the initial version of Iris.
+A blatant Android knockoff of Siri -- "Iris" is the reverse of "Siri".

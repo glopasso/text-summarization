@@ -1,0 +1,3 @@
+The launch of the Xoom tablet from Motorola Mobility is scheduled for late February.
+Google began asking developers to start testing apps for the tablet-optimized Android.
+The new documentation details how a gadget with no physical buttons will work.

@@ -1,0 +1,3 @@
+The idea builds off the Google Cloud Print announcement we saw in April.
+It works by giving each printer its own unique e-mail address.
+The new printers, along with ePrint, can connect directly to Google Cloud.

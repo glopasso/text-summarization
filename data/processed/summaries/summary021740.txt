@@ -1,0 +1,3 @@
+Robot being developed by U.S. Naval Research Laboratory will tackle fires on military vessels.
+Autonomous robot will launch firefighting grenades and interact with human firefighters.
+Virginia Tech and the University of Pennsylvania to work on project.

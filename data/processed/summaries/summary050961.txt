@@ -1,0 +1,4 @@
+Facebook Graph Search making site's search more robust.
+Manager says friends and photos are most common searches so far.
+Activity Log can be used to control what's searchable about a user.
+Graph Search is rolling out slowly to the site's users.

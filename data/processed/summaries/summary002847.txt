@@ -1,0 +1,4 @@
+Scientists are building robots that can work in teams.
+'Swarm robots' operate like hive insects such as ants, termites or bees.
+MIT's M-blocks robot can self-assemble to solve different problems.
+Swarm robots could be used in search and rescue, medicine and space exploration.

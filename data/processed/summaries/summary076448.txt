@@ -1,0 +1,4 @@
+Microsoft rolls out new encryption protections for customers' data.
+Blog post cited the possibility of "government snooping".
+Yahoo and Google have made similar moves to block NSA from accessing info.
+Encryption makes intercepted messages harder to understand.

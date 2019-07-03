@@ -1,0 +1,3 @@
+Computer experts worried about April Fools' worm -- the Conficker.c.
+Conficker.c is thought to have already infected up to 10 million computers.
+Microsoft offering $250,000 bounty to catch program's creator.

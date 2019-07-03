@@ -1,0 +1,4 @@
+The balloons are designed to bring the Internet to remote places, Google says.
+30 balloons are being released in New Zealand for a trial of the technology.
+The superpressure balloons carry radio transmitters and GPS, use solar power.
+Homes fitted with a special antenna should be able to connect to the balloon network.

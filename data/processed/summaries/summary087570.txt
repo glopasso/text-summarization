@@ -1,0 +1,4 @@
+NEW: Gmail outage occurred when some servers were taken offline for maintenance.
+NEW: Google says its remaining routers became overloaded with traffic.
+Google's free e-mail service suffered widespread outage Tuesday afternoon.
+Google said Gmail outage lasted about an hour and 40 minutes.

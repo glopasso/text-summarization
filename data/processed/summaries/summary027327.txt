@@ -1,0 +1,3 @@
+The Ekso is a wearable robot consisting of a motorized frame and computer.
+Bionic device gives paraplegics upright mobility and enhances strength in others.
+The Ekso is available in rehab centers and hospitals; a personal version is planned.

@@ -1,0 +1,3 @@
+Security research discovers a bug in the encryption technology used by two-thirds of the Web.
+"Heartbleed" could put people's personal passwords, e-mails and financial information at risk.
+Addressing the bug will require work by individual sites and the customers who use them.

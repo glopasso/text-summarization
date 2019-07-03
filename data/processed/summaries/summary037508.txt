@@ -1,0 +1,3 @@
+A Kickstarter campaign seeks to automate the small-scale beer creation process.
+The PicoBrew Zymatic automates some steps of beermaking, but it's not cheap.
+The machine can import recipes and scale them to the PicoBrew's setup.

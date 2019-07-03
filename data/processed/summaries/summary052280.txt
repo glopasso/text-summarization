@@ -1,0 +1,4 @@
+Apple has remained mum on whether Siri will ever be ported to other devices.
+Putting Siri to Mountain Lion desktops would pose several challenges.
+Siri voice analysis would be far more challenging on a Mac computer.
+Siri is all about location services and desktop computers don't include native GPS.

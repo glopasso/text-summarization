@@ -1,0 +1,4 @@
+Predictive analytic software PredPol anticipates future crime based upon past activity..
+The program was adapted from similar software meant to predict earthquake aftershocks..
+Many police stations still use obsolete technology due to small budgets and aversion to change..
+Even so, police depend heavily upon social media to solve crimes..

@@ -1,0 +1,3 @@
+"No-permission" Android apps can access potentially sensitive data on your phone.
+The bigger problem isn't malicious exploitation, but rather that app developers are "sloppy".
+Don't install apps that require too many permissions, and report any suspicious activity.

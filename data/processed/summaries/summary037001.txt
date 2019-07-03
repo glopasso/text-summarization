@@ -1,0 +1,3 @@
+Google competition asks teams to send a module to the moon.
+Once on moon, robot must travel 500m, transmit video back to Earth.
+18 private teams are still in the running.

@@ -1,0 +1,4 @@
+Nina, a voice-control product like Apple's Siri, will be equipped for iOS and Android apps.
+Unlike Siri, Nina will allow other companies to use voice-control capabilities.
+Nina is aimed at app developers, service industries.
+Nina needs a strong network connection to work correctly.

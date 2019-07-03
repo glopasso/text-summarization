@@ -1,0 +1,4 @@
+Gen. Keith Alexander says the NSA doesn't break into Google, Yahoo databases.
+But The Washington Post reports that the NSA accesses data as it moves between centers.
+Alexander didn't appear to address that specific claim.
+The NSA later denies using the technique to "collect vast quantities of U.S. persons' data".

@@ -1,0 +1,3 @@
+Blab predicts topics before they start trending.
+It analyzes 100 million conversations a day, and 50,000 news sources.
+More companies are seeing the value of engaging with customers in real-time.

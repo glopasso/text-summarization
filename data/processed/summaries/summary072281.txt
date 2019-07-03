@@ -1,0 +1,3 @@
+Future iPhones and iPads might have biometric scanners that read fingerprints.
+Fingerprint verification could add an extra layer of security.
+Clues were found in a beta version of iOS 7 released to Apple developers.

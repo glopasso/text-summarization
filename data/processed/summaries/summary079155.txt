@@ -1,0 +1,3 @@
+Picture password feature is fun, convenient alternative to system unlocking.
+In Windows 8, switching between open apps is much more intuitive and easy.
+Users can adjust key size in the Windows 8 split-screen keyboard.

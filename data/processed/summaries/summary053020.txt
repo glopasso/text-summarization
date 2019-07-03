@@ -1,0 +1,4 @@
+Some of the Martian environment is being replicated to help test a future rover.
+The European Space Agency is planning missions for 2016 and 2018.
+The "Mars Yard" will be used up until launch but kept available after a rover has landed in 2019.
+Two spacecraft are currently en route to the Red Planet.

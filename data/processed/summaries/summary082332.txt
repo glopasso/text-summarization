@@ -1,0 +1,3 @@
+Apple's next version of Safari will include the ability for users to tell websites not to track them.
+Mozilla and Microsoft have already included in their newest browsers.
+Google says it offers a plug-in for Chrome called "Keep My Opt-Outs".

@@ -1,0 +1,3 @@
+Chip with codename "Claremont" is known as a near-threshold voltage processor.
+In demonstration, PC powered by a solar cell the size of a postage stamp.
+Chip switches into NTV mode, under 10 mW, when its workload is light.

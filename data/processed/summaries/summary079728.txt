@@ -1,0 +1,3 @@
+Mailbox is a highly anticipated iPhone app for better organizing your e-mail.
+It uses swipe gestures to help quickly clear your inbox and focus on important tasks.
+The app's killer feature is a snooze button, letting you ignore e-mails until later.

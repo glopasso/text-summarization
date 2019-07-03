@@ -1,0 +1,4 @@
+Apple's fingerprint sensor on the iPhone 5S doesn't always work the way it should.
+Some iPhones don't approve fingerprints they're supposed to approve.
+Sensor is susceptible to problems caused by dust, moisture, and electrostatic discharge,.
+User error could also be causing some people's issues with the Touch ID system.

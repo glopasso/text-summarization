@@ -1,0 +1,3 @@
+Google rolls out updated Gmail inbox.
+New tools let user prioritize messages based on the sender.
+Categories are Priority, Social, Promotions, Updates and forums.

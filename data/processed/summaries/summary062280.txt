@@ -1,0 +1,3 @@
+Google Flu Trends may predict flu outbreaks up to two weeks faster than CDC.
+Tool takes into account that not everyone who searches for flu-related words has it.
+Individual users cannot be identified, but Google knows which U.S. state you're in.

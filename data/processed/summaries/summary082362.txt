@@ -1,0 +1,4 @@
+Study: Users begin to leave online video after two seconds if it doesn't load.
+After that, an average of 5.8% of them leave the video per second.
+Study is from University of Massachusetts at Amherst and Akamai Technologies.
+Researchers looked at the habits of 6.7 million unique video viewers.

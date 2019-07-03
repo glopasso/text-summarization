@@ -1,0 +1,4 @@
+Newly released documents show the National Security Agency violated phone-records rules.
+Papers: NSA also submitted incorrect information to the Foreign Intelligence Surveillance Court.
+The papers were released to comply with ACLU, Electronic Frontier Foundation requests.
+The court required the NSA to seek approval to query data until processes were improved.

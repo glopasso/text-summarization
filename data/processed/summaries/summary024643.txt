@@ -1,0 +1,3 @@
+Japanese robot programmed to sense emotions.
+Pepper, from Softbank, uses sensors to read a users mood.
+It will be released next year for just under $2,000.

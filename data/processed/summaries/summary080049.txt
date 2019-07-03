@@ -1,0 +1,3 @@
+A fake tweet can spread across the social network and into the real world quickly.
+One tweet from a hacked AP account resulted in a dip in the stock market.
+There is no way to edit or take back a tweet and deleting is ineffective once it is in the wild.

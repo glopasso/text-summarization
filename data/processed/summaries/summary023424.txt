@@ -1,0 +1,3 @@
+Siri, Apple's voice-controlled assistant, is quite good at what it knows how to do.
+However, Siri is unable to perform some basic tasks.
+Apple says Siri is a "beta" and that the company will improve it over time.

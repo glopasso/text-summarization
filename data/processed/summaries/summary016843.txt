@@ -1,0 +1,3 @@
+No user account information was compromised, Senate sergeant at arms says.
+The server accessed contained only files intended for public consumption.
+The vulnerability in the system that allowed the intrusion has been fixed.

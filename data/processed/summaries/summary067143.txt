@@ -1,0 +1,3 @@
+Many sprawling Indian cities have problems defining exact locations.
+Zippr is offering a solution for businesses in need of a specific address.
+The app generates a unique code, which will enable the postal service to find users.

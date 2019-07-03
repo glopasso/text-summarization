@@ -1,0 +1,3 @@
+Adobe's Flash does not work on Apple's iPhones or iPads.
+Adobe is releasing an application that will convert Flash into HTML5.
+HTML5 is a new web standard aimed at working on most browsers and mobile devices..

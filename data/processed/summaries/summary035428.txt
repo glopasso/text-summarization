@@ -1,0 +1,4 @@
+"Shrewbot" aims to test whether artificial whiskers could help a robot navigate.
+Robotics expert Alan Winfield suggests they could be useful for planetary rovers.
+He also points to work on soft robotics that could aid space exploration.
+So-called 'swarm robots' might be able to adapt to an alien planet's environment, he says.

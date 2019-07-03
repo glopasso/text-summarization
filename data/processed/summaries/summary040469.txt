@@ -1,0 +1,3 @@
+Report: Apple's social network Ping will be gone in the next release of iTunes.
+Ping has been poorly received from the beginning.
+The network had issues with spam and lacked many artist profiles.

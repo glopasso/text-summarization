@@ -1,0 +1,4 @@
+Probe involves two failures of airspeed and altitude indications aboard A330s.
+On June 1, an Air France A330 crashed into the Atlantic.
+Investigators are looking at the possible role of airspeed sensors in that crash.
+The planes involved in the other two incidents landed safely.

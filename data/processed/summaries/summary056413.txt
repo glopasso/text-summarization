@@ -1,0 +1,3 @@
+IBM is developing computer system to analyze food based on molecules.
+The system could potentially create personalized, healthy recipes.
+"At the end of the day, taste is about chemistry," an IBM innovation expert says.

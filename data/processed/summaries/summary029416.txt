@@ -1,0 +1,4 @@
+Users have complained some magazine apps look pixilated, or blurry, on the new iPad.
+With the iPad 3, publishers are now dealing with a device with four times as many pixels.
+Publishers will have to increase the resolution of their files and export their editions as PDFs.
+An exception is Vogue, which was able to optimize for the iPad's "retina display" ahead of time.

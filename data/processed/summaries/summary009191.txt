@@ -1,0 +1,3 @@
+Facebook working with data company that tracks whether its users purchase advertised products.
+Datalogix matches purchasing data from retailers with Facebook users, based on corresponding identifying information.
+Privacy advocates raising concerns.

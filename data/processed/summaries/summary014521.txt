@@ -1,0 +1,3 @@
+Qik is a new messaging app from Skype that lets people communicate with video clips.
+Like Snapchat, the clips eventually delete, so there's no archive of conversations.
+This is Skype's first standalone spinoff app.

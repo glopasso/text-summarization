@@ -1,0 +1,4 @@
+New U.S. atomic clock is unveiled Thursday.
+The NIST-F2 will lose only one second every 300 million years.
+It's three times more precise than last clock used in the United States.
+GPS, telecommunications, other tech require high precision.

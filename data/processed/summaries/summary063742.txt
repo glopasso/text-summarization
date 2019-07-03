@@ -1,0 +1,3 @@
+Autopilot could have taken control of Germanwings flight and flown plane to safe altitude.
+But some experts say taking control away from humans could lead to other dangers.
+Another concern: Autopilot might be vulnerable to hackers.

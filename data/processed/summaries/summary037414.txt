@@ -1,0 +1,3 @@
+App now lets you rate and upload photos of your dishes.
+Update de-emphasizes "shake to find a random restaurant" home screen.
+Photos feature pushes Urbanspoon onto Foodspotting's turf.

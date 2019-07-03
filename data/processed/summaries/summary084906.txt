@@ -1,0 +1,4 @@
+Defcon is a forum to share info on vulnerabilities in software and hardware.
+Attendees worried about using Wi-Fi for fear of passwords being stolen.
+Fake ATM was spotted in hotel with a PC inside it.
+Thumb drive with virus was passed around at conference.

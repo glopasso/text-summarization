@@ -1,0 +1,2 @@
+Chinese web giant Baidu develops moving map of Lunar New Year travelers.
+Map works by pulling location data from mobile phones.

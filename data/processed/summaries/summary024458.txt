@@ -1,0 +1,4 @@
+The Internet of Things is the idea that all physical objects could communicate data over the internet to other connected devices.
+In rural Wales, researchers have begun a study into the Internet of Sheep, attaching devices to livestock to gather information.
+Researchers say the beauty of sheep is that they stick together -- easily transmitting data between the flock.
+When the flock comes close to an internet receiving station it would transmit data to researchers at Lancaster University.

@@ -1,0 +1,3 @@
+Researcher: Hackers could trick new air traffic control systems into seeing fake aircraft.
+The new system will be rolled out in the United States by 2014.
+The FAA says it conducts onging assessments of vulnerabilites.

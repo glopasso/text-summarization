@@ -1,0 +1,3 @@
+Lockitron is an app that enables doors to be unlocked through a smart phone.
+After having been rejected by Kickstarter, the start-up managed to successfully raise funds online.
+Lockitron senses your proximity to the door, then uses wifi or bluetooth to unlock it once you're in range.

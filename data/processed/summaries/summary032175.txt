@@ -1,0 +1,3 @@
+Microsoft Kinect inspiring developers worldwide to create novel devices.
+UK researchers have used Kinect to develop a rehabilitation tool for stroke sufferers.
+Microsoft testing new tool for surgeons that allows medical scans to be manipulated using hand gestures.

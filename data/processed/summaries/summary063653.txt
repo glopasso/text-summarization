@@ -1,0 +1,4 @@
+New add-on attempts to measure the value of your data to websites.
+Facebook, Google and other sites make their money using data for advertising.
+Privacyfix works with Firefox and Chrome Web browsers.
+Creator says his yearly value is $1.68 to Facebook, but $700 to Google.

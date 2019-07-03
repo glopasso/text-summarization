@@ -1,0 +1,3 @@
+Social media information like tweets is being used to map the current flu outbreak.
+Researchers are working on ways to better filter tweets for accurate real-time predictions.
+There are apps and tools from the CDC, Google and startups dedicated to tracking the flu.

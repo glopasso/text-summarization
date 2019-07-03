@@ -1,0 +1,4 @@
+Change the List is a new project from CNN Opinion.
+The effort is led by CNN's John D. Sutter.
+We aim to bring change to places that need it most.
+Our first project: Voter turnout in the United States.

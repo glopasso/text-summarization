@@ -1,0 +1,4 @@
+A hacker group says it accessed info for 4.6 million Snapchat users.
+The group, SnapchatDB, urged the app to tighten security.
+They said the last two digits in phone numbers were blurred.
+Snapchat lets users share photos and videos.

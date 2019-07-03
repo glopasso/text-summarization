@@ -1,0 +1,4 @@
+New program lets libraries lend e-books to Kindle users.
+11,000 libraries in the United States participate.
+There are no late fees for the e-book rentals, but the files lock when they're overdue.
+Tech has slowly been whittling away at the idea of late fees.

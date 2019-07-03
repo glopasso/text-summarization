@@ -1,0 +1,4 @@
+Images can contain the precise GPS coordinates for where a photo was taken.
+Pictures on Flickr, Photobucket and Picasa Web Albums can contain location data.
+Other services, like Facebook, TwitPic and Yfrog, strip that data.
+Digital photo experts express concerns over privacy implications.

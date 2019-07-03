@@ -1,0 +1,4 @@
+Facebook stopped a phishing attack Thursday, its second day of battling a worm.
+Worm lures people to a fake Facebook page and prompts them to log in.
+The page then steals their information when they type their username and password.
+Facebook spokesman: The attacks were stopped within a few hours in each case.

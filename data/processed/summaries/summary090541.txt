@@ -1,0 +1,4 @@
+Most common car safety system is ABS or anti-lock brake system.
+EBD: subsystem of anti-lock brakes called electronic brake force distribution.
+GPS is system that drives new navigation systems: Global positions system.
+RSC: roll stability control, new government regulation to prevent rollovers.

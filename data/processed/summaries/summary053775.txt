@@ -1,0 +1,4 @@
+Facebook is rolling out a feature that lets you embed posts.
+Users can share posts on their blogs and websites.
+Embedding only works for public posts on the site.
+Facebook is following Twitter, which already allowed embedding tweets.

@@ -1,0 +1,3 @@
+Update lets people sort information by Recent Stories or Highlighted Stories.
+Recent Stories option will order News Feed items in reverse chronological order.
+The social network originally revamped News Feed in September.

@@ -1,0 +1,4 @@
+Nadav Ossendryver, 16, has created wildlife-tracking website Latest Sightings.
+It uses crowdsourcing to gather information about animals in Kruger National Park.
+The website has grown to have over 33,000 members, says Nadav.
+Latest Sightings does not display any rhino sightings.
