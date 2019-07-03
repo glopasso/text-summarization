@@ -21,19 +21,19 @@ A description of this project development can be found on my portfolio website
 ## 2. Data cleaning
 
 Basic processing of the original dataset file separting article from summaries.
-
-01-process-raw-data.ipynb [launch notebook on Codelab](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/01-process-raw-data.ipynb)
+**Notebook:**
+01-process-raw-data.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/01-process-raw-data.ipynb)
 
 ## 3. Exploratory Data Analysis (EDA)
 Analysis of number of characteres, words and sentences on both articles and summaries. Identification of malformed articles and cleaning the dataset from them.
-
-02-exploratory-data-analysis.ipynb [launch notebook on Codelab]
+**Notebook:**
+02-exploratory-data-analysis.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/02-exploratory-data-analysis.ipynb)
 
 ## 4. Sentence scoring algorithm
 
 The sentence scoring algorithm was mostly based on Alfrick Opidi's article on Floydhub, named "A Gentle Introduction to Text Summarization in Machine Learning".
-
-03-sentence-scoring-algorithm.ipynb [launch notebook on Codelab]
+**Notebook:**
+03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/03-sentence-scoring-algorithm.ipynb)
 
 ## 5. Flask API on a web server
 
