@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Summary</title>
+</head>
+<body>
+
+
+<form action="" method="post">
+
+    {{ form.csrf_token() }}
+    <p> Enter parameters for the summarizer algorithm: </p>
+    <p>{{ form.n_gram.label() }}   {{ form.n_gram() }}
+            {% for error in form.n_gram.errors %}
+                {{ error }}
+            {% endfor %}
+
+    {{ form.tokenizer.label() }}   {{ form.tokenizer() }}
+            {% for error in form.tokenizer.errors %}
+                {{ error }}
+            {% endfor %}
+
+    {{ form.threshold_factor.label() }}   {{ form.threshold_factor() }}
+            {% for error in form.threshold_factor.errors %}
+                {{ error }}
+            {% endfor %}
+    </p>
+    <p> Enter text to summarize: </p>
+    <p> {{ form.text_to_summarize() }}
+            {% for error in form.text_to_summarize.errors %}
+                {{ error }}
+            {% endfor %}</p>
+    <p> {{ form.submit() }}
+            {% for error in form.submit.errors %}
+                {{ error }}
+            {% endfor %}</p>
+    <p> Summary: </p>
+        <p> {{ form.prediction() }}
+            {% for error in form.submit.errors %}
+                {{ error }}
+            {% endfor %}</p>
+</form>
+{% for category, message in get_flashed_messages(with_categories=true) %}
+    <p class="{{ category }}">{{ message }}</p>
+{% endfor %}
+</body>
+</html>
