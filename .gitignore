@@ -1,0 +1,17 @@
+## pycharm files ##
+###################
+*.pyc
+sentence_scoring_api/.idea/
+sentence_scoring_api/__pycache__/
+story083838.txt
+
+## checkpoints ##
+#################
+notebooks/.ipynb_checkpoints/
+
+## data ##
+##########
+data/cleaned/*
+data/processed/stories/*
+data/processed/summaries/*
+*.pkl
