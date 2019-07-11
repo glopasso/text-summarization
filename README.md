@@ -17,7 +17,7 @@ The objective of this project is to develop a text summarization tool able to cr
 
 Dataset: The CNN news highlights dataset, which contains news articles and associated highlights, i.e., a few bullet points giving a brief overview of the article, with 92,579 documents.
 
-The CNN dataset was downloaded from New York University, in the version made available by Kyunghyun Cho, which can be gound [here](https://cs.nyu.edu/~kcho/DMQA/)
+The CNN dataset was downloaded from New York University, in the version made available by Kyunghyun Cho, which can be found [here](https://cs.nyu.edu/~kcho/DMQA/)
 
 A description of this project development can be found on my portfolio website,
 
@@ -45,14 +45,14 @@ The sentence scoring algorithm was mostly based on Alfrick Opidi's article on Fl
 
 #### HTTP POST calls to the API
 **Format:** 
-'''shell
+```shell
 curl -X POST --data-binary @\<filename\> -d 'tokenizer=\<stem | lemma\>&n_gram=\<1-gram |2-gram | 3-gram\>&threshold_factor=\<float\>' https&#58;//summarizer-lopasso&#46;herokuapp&#46;&#8203;com/predict
-'''
+```
 
 The response is a JSON in the following format:
-'''shell
+```shell
 {"prediction" : "The generated summary"}
-''' 
+``` 
 #### Web interface
 Access the app on Heroku using the [link](https://summarizer-lopasso.herokuapp.com/).
 The app has a self explanatory page, where the inputs are the text to be summarized and the algorithm parameters. The generated summary appears in the field on the bottom of the page, when the button "Submit" is pressed.
