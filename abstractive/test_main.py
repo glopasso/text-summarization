@@ -40,7 +40,7 @@ class TestPreprocessing(unittest.TestCase):
         self.assertEqual(fs.preprocessing('Multiple     spaces should disappear!'),
                          'multiple spaces should disappear !')
 
-class Test_treatment_of_period(unittest.TestCase):
+class TestTreatmentOfPeriod(unittest.TestCase):
 
     def test_word(self):
         self.assertEqual(fs.treatment_of_period('word'),'word')
@@ -54,7 +54,7 @@ class Test_treatment_of_period(unittest.TestCase):
     def test_url(self):
         self.assertEqual(fs.treatment_of_period('www.lopasso.tech'), 'www.lopasso.tech')
 
-class Test_uniquify(unittest.TestCase):
+class TestUniquify(unittest.TestCase):
 
     def test_repetition(self):
         self.assertEqual(fs.uniquify('This should eliminate repetition repetition for all'),
@@ -64,7 +64,7 @@ class Test_uniquify(unittest.TestCase):
         self.assertEqual(fs.uniquify('Even Joe Smith, Joe Smith, should go'),
                      'Even Joe Smith, should go')
 
-class Test_remove_similar_sentences(unittest.TestCase):
+class TestRemoveSimilarSentences(unittest.TestCase):
 
     def test_similar_sentences(self):
         input = ['According to police, they were arrested',
@@ -72,7 +72,7 @@ class Test_remove_similar_sentences(unittest.TestCase):
         self.assertEqual(fs.remove_similar_sentences(input),['According to police, they were arrested yesterday'])
 
 
-class Test_post_processing(unittest.TestCase):
+class TestPostProcessing(unittest.TestCase):
 
     def test_remove_tokens(self):
         global START_DECODING, STOP_DECODING, OOV_DECODING
@@ -84,7 +84,7 @@ class Test_post_processing(unittest.TestCase):
         input = 'fix sentences to have punctuation .'
         self.assertEqual(fs.post_processing(input),'Fix sentences to have punctuation.')
 
-class Test_splitter(unittest.TestCase):
+class TestSplitter(unittest.TestCase):
 
     def test_long_article(self):
         sentence = 'This is a sentence with 10 words that repeats itself. '
