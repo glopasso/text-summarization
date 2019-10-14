@@ -34,14 +34,14 @@ Basic processing of the original dataset file separting article from summaries.
 Analysis of number of characteres, words and sentences on both articles and summaries. Identification of malformed articles and cleaning the dataset from them.
 
 **Notebook:**
-02-exploratory-data-analysis.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/02-exploratory-data-analysis.ipynb)
+02-exploratory-data-analysis.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/text-summarization/blob/master/extractive/notebooks/02-exploratory-data-analysis.ipynb)
 
 ## 4. Sentence scoring algorithm
 
 The sentence scoring algorithm was mostly based on Alfrick Opidi's article on Floydhub, named "A Gentle Introduction to Text Summarization in Machine Learning".
 
 **Notebook:**
-03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/03-sentence-scoring-algorithm.ipynb)
+03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/text-summarization/blob/master/extractive/notebooks/03-sentence-scoring-algorithm.ipynb)
 
 ## 5. Flask API on a web server
 
