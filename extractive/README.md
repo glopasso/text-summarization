@@ -28,7 +28,7 @@ A description of this project development can be found on my portfolio website,
 Basic processing of the original dataset file separting article from summaries.
 
 **Notebook:**
-01-process-raw-data.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/01-process-raw-data.ipynb)
+01-process-raw-data.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/text-summarization/blob/master/extractive/notebooks/01-process-raw-data.ipynb)
 
 ## 3. Exploratory Data Analysis (EDA)
 Analysis of number of characteres, words and sentences on both articles and summaries. Identification of malformed articles and cleaning the dataset from them.
