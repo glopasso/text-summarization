@@ -1,4 +1,3 @@
-from __future__ import absolute_import, division, print_function, unicode_literals
 import tensorflow as tf
 from flask import request, escape
 import numpy as np
@@ -641,7 +640,8 @@ def abstractive_summarizer(request):
         cloud_logger.log_text('Created Summary error: empty response')
         created_summary = 'ERROR: Empty response'
     cloud_logger.log_text('API Response: took {} seconds'.format(round(time.time() - t_zero,2)))
-    return '{}'.format(created_summary)
+    prediction = '{}'.format(created_summary)
+    return jsonify({'prediction': prediction})
 
 
 
