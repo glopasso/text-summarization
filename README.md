@@ -28,7 +28,7 @@ A description of this project development can be found on my portfolio website,
 Basic processing of the original dataset file separting article from summaries.
 
 **Notebook:**
-01-process-raw-data.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/extracive/notebooks/01-process-raw-data.ipynb)
+01-process-raw-data.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/extractive/notebooks/01-process-raw-data.ipynb)
 
 ## 3. Exploratory Data Analysis (EDA)
 Analysis of number of characteres, words and sentences on both articles and summaries. Identification of malformed articles and cleaning the dataset from them.
@@ -41,12 +41,12 @@ Analysis of number of characteres, words and sentences on both articles and summ
 For the extractive approach, we used a sentence scoring algorithm, which was mostly based on Alfrick Opidi's article on Floydhub, named "A Gentle Introduction to Text Summarization in Machine Learning".
 
 **Notebook:**
-03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/notebooks/03-sentence-scoring-algorithm.ipynb)
+03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/extractove/notebooks/03-sentence-scoring-algorithm.ipynb)
 
 For the abstrative approach, we used a machine learning RNN seq-2-seq model, which was originally inspired on the translation algorithm proposed by Trung Tran in the blog post [[Neural Machine Translation With Attention Mechanism]] (https://machinetalk.org/2019/03/29/neural-machine-translation-with-attention-mechanism/)
 
 **Notebook:**
-train_model.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/abstractive/train/03-sentence-scoring-algorithm.ipynb)
+train_model.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/abstractive/train/Train_model.ipynb)
 
 ## 5. Serving the model
 
