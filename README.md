@@ -53,13 +53,13 @@ train_model.ipynb [[launch notebook on Codelab]](https://colab.research.google.c
 #### HTTP POST calls to the extractive model API
 **Format:** 
 ```shell
-curl -X POST --data-binary @\<filename\> -d 'tokenizer=\<stem | lemma\>&n_gram=\<1-gram |2-gram | 3-gram\>&threshold_factor=\<float\>' https&#58;//summarizer-lopasso&#46;herokuapp&#46;&#8203;com/predict
+curl -X POST --data-binary @<filename> -d 'tokenizer=\<stem | lemma\>&n_gram=<1-gram |2-gram | 3-gram>&threshold_factor=<float>' https&#58;//summarizer-lopasso&#46;herokuapp&#46;&#8203;com/predict
 ```
 
 #### HTTP POST calls to the abstractive model API
 **Format:** 
 ```shell
-curl --data-binary @\<filename\> https://us-central1-data-engineering-gcp.cloudfunctions.net/summarizer
+curl --data-binary @<filename> https://us-central1-data-engineering-gcp.cloudfunctions.net/summarizer
 ```
 
 For both approaches (extractive and abstractive) the response is a JSON in the following format:
