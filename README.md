@@ -41,7 +41,7 @@ Analysis of number of characteres, words and sentences on both articles and summ
 For the extractive approach, we used a sentence scoring algorithm, which was mostly based on Alfrick Opidi's article on Floydhub, named "A Gentle Introduction to Text Summarization in Machine Learning".
 
 **Notebook:**
-03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/extractove/notebooks/03-sentence-scoring-algorithm.ipynb)
+03-sentence-scoring-algorithm.ipynb [[launch notebook on Codelab]](https://colab.research.google.com/github/glopasso/capstone/blob/master/extractive/notebooks/03-sentence-scoring-algorithm.ipynb)
 
 For the abstrative approach, we used a machine learning RNN seq-2-seq model, which was originally inspired on the translation algorithm proposed by Trung Tran in the blog post [[Neural Machine Translation With Attention Mechanism]] (https://machinetalk.org/2019/03/29/neural-machine-translation-with-attention-mechanism/)
 
