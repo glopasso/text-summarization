@@ -67,5 +67,5 @@ For both approaches (extractive and abstractive) the response is a JSON in the f
 {"prediction" : "The generated summary"}
 ``` 
 #### Web interface
-Access the app on Heroku using the [link](https://summarizer-lopasso.herokuapp.com/).
+Access the app hosted by a GCP instance using streamlit. [link](http://35.223.118.188:8501).
 The app has a self explanatory page, where the inputs are the text to be summarized and the algorithm parameters. The generated summary appears in the field on the bottom of the page, when the button "Submit" is pressed.
