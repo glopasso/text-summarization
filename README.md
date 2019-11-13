@@ -1,5 +1,5 @@
 # Text Summarization
-### Using extractive and abstractive approaches for creating summaries
+### Using extractive and abstractive approaches to create summaries
 
 ![](https://img.shields.io/badge/license-MIT-green.svg)
 
