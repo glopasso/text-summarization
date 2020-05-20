@@ -4,7 +4,7 @@ Flask-Script==2.0.6
 Flask-Stormpath==0.4.8
 Flask-WTF==0.14.2
 gunicorn==19.9.0
-httplib2==0.13.0
+httplib2==0.18.0
 idna==2.8
 ipaddress==1.0.17
 isodate==0.6.0
