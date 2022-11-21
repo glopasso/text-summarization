@@ -1,5 +1,5 @@
 Flask==1.0.2
-tensorflow==2.0.0b0
+tensorflow==2.9.3
 google-cloud-storage==1.16.1
 google-cloud-logging
 fuzzywuzzy
