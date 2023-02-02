@@ -17,5 +17,5 @@ numpy==1.16.4
 requests==2.22.0
 typing==3.6.6
 urllib3==1.25.3
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 WTForms==2.2.1
